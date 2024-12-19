@@ -1,0 +1,2035 @@
+Company,Region,Vertical,Funding Amount (USD),Funding Stage,Funding Date
+Buck.ai,United States,Artificial Intelligence,300000,Seed,Jan-20
+Seatrec,United States,Marine Technology,970000,Seed,Jan-20
+BeeCanvas,United States,B2B Software,1000000,Seed,Jan-20
+SmartKarrot,United States,B2B Software,1000000,Angel,Jan-20
+Fundraise Up,United States,B2B Software,1250000,Seed,Jan-20
+Yac,United States,B2B Software,1250000,Seed,Jan-20
+Cloverleaf.me,United States,Human Resources,1300000,Seed,Jan-20
+Docket,United States,B2B Software,1500000,Seed,Jan-20
+Podsights,United States,Marketing,1500000,Seed,Jan-20
+SIMBA Chain,United States,Blockchain,1500000,Seed,Jan-20
+Defendify,United States,Cyber Security,2000000,Seed,Jan-20
+OpenPhone,United States,B2B Software,2000000,Seed,Jan-20
+Punch List,United States,Home Renovation,2000000,Seed,Jan-20
+Kloud.io,United States,B2B Software,4000000,Seed,Jan-20
+Upflex,United States,CoWorking,4100000,Seed,Jan-20
+1Huddle,United States,Human Resources,5000000,Series A,Jan-20
+Luxury Presence,United States,Real Estate,5400000,Series A,Jan-20
+Lynq,United States,Hardware,6000000,Seed,Jan-20
+Stoplight,United States,B2B Software,6000000,Series A,Jan-20
+TypingDNA,United States,Artificial Intelligence,7000000,Series A,Jan-20
+Ceterus,United States,B2B Software,9100000,Series C,Jan-20
+AppOmni,United States,Cyber Security,10000000,Series A,Jan-20
+Containous,United States,B2B Software,10000000,Series A,Jan-20
+Legalpad,United States,Legal Tech,10000000,Series A,Jan-20
+Neighbor,United States,Consumer,10000000,Series A,Jan-20
+Otter.ai,United States,Artificial Intelligence,10000000,Series B,Jan-20
+AbSci,United States,Biotechnology,10400000,Series D,Jan-20
+Feathr,United States,B2B Software,11000000,Series B,Jan-20
+Locale,United States,Travel,11000000,Series A,Jan-20
+Lily AI,United States,Artificial Intelligence,12500000,Series A,Jan-20
+BlueConic,United States,B2B Software,12800000,Series B,Jan-20
+Spatial,United States,Augmented Reality,14000000,Series A,Jan-20
+Roambee,United States,Logistics,15200000,Series B,Jan-20
+Insurify,United States,Artificial Intelligence,23000000,Series A,Jan-20
+MURAL,United States,B2B Software,23000000,Series A,Jan-20
+Clubhouse,United States,B2B Software,25000000,Series B,Jan-20
+CREXi,United States,Real Estate,30000000,Series B,Jan-20
+Workboard,United States,B2B Software,30000000,Series C,Jan-20
+Modern Health,United States,Human Resources,31000000,Series B,Jan-20
+Verbit.ai,United States,Artificial Intelligence,31000000,Series B,Jan-20
+Productboard,United States,B2B Software,45000000,Series B,Jan-20
+Justworks,United States,B2B Software,50000000,Series E,Jan-20
+SECURITI.ai,United States,Artificial Intelligence,50000000,Series B,Jan-20
+LaunchDarkly,United States,B2B Software,54000000,Series D,Jan-20
+Element Biosciences,United States,Biotechnology,80000000,Series B,Jan-20
+Verkada,United States,Computer Vision,80000000,Series C,Jan-20
+ActiveCampaign,United States,B2B Software,100000000,Series B,Jan-20
+Sisense,United States,B2B Software,100000000,Series F,Jan-20
+Joby Aviation,United States,Aerospace,590000000,Series C,Jan-20
+Impossible Foods,United States,Food and Beverage,500000000,Series F,Mar-20
+Bakkt,United States,Blockchain,300000000,Series B,Mar-20
+Via,United States,Automotive,200000000,Series E,Mar-20
+HashiCorp,United States,Cyber Security,175000000,Series E,Mar-20
+ElevateBio,United States,Biotechnology,170000000,Series B,Mar-20
+UserTesting,United States,B2B Software,100000000,Series C,Mar-20
+Lyra Health,United States,Employee Benefits,75000000,Series C,Mar-20
+Rigetti Computing,United States,Quantum Computing,71000000,Series D,Mar-20
+Everlaw,United States,Legal,62000000,Series C,Mar-20
+Netlify,United States,Web Development,53000000,Series C,Mar-20
+SpotOn,United States,FinTech,50000000,Series B,Mar-20
+mParticle,United States,B2B Software,45000000,Series D,Mar-20
+Proxy,United States,Augmented Reality,42000000,Series B,Mar-20
+Human Interest,United States,Cloud Computing,40000000,Series C,Mar-20
+Rancher Labs,United States,FinTech,40000000,Series C,Mar-20
+STRIVR,United States,Virtual Reality,30000000,Series B,Mar-20
+Orion Labs,United States,Enterprise,29000000,Series B,Mar-20
+Sensel,United States,Consumer Electronics,28000000,Series A,Mar-20
+Remesh,United States,Artificial Intelligence,25000000,Series A,Mar-20
+Airbase,United States,FinTech,23500000,Series A,Mar-20
+Sourcegraph,United States,Developer Platform,23000000,Series B,Mar-20
+Arkose Labs,United States,B2B Software,22000000,Series B,Mar-20
+Pager,United States,FinTech,22000000,Series B,Mar-20
+Fast,United States,B2B Software,20000000,Series A,Mar-20
+Leaf Logistics,United States,Logistics,20000000,Series A,Mar-20
+Suki,United States,Artificial Intelligence,20000000,Series B,Mar-20
+Mya Systems,United States,Artificial Intelligence,18700000,Series C,Mar-20
+Second Nature,United States,E-Commerce,16399999,Series C,Mar-20
+Validere,United States,Finance,15000000,Series B,Mar-20
+Axis Security,United States,B2B Software,14000000,Series A,Mar-20
+Helm.ai,United States,Autonomous Vehicles,13000000,Seed,Mar-20
+Deepgram,United States,B2B Software,12000000,Series A,Mar-20
+Quit Genius,United States,B2B Software,11000000,Series A,Mar-20
+Rollbar,United States,Fitness,11000000,Series A,Mar-20
+UnitQ,United States,B2B Software,11000000,Series B,Mar-20
+Slync.io,United States,B2B Software,11000000,Series A,Mar-20
+Finix,United States,Transportation,10000000,Series A,Mar-20
+Forager,United States,FinTech,10000000,Series B,Mar-20
+Moffett,United States,Logistics,10000000,Series A,Mar-20
+Ride Report,United States,Cyber Security,10000000,Series A,Mar-20
+ZeroNorth,United States,Artificial Intelligence,10000000,Angel,Mar-20
+DisruptOPS,United States,Cyber Security,9000000,Series A,Mar-20
+Allset,United States,Food and Beverage,8199999,Series B,Mar-20
+Cleanshelf,United States,B2B Software,8000000,Series A,Mar-20
+Zeto,United States,Health Care,7300000,Series A,Mar-20
+Yaguara,United States,B2B Software,7200000,Seed,Mar-20
+Pathlight,United States,B2B Software,7000000,Series A,Mar-20
+Around,United States,Video Software,5200000,Seed,Mar-20
+BackboneAI,United States,Artificial Intelligence,4700000,Seed,Mar-20
+ProCredEx,United States,Health Care,3500000,Seed,Mar-20
+Balancer Labs,United States,Blockchain,3000000,Seed,Mar-20
+Zabo,United States,Blockchain,2500000,Seed,Mar-20
+ZBiotics,United States,Nutraceutical,2300000,Seed,Mar-20
+Sounder.fm,United States,B2B Software,1800000,Seed,Mar-20
+Strata,United States,Developer Tools,1500000,Seed,Mar-20
+SalesReach,United States,Sales,1200000,Seed,Mar-20
+mod.io,United States,B2B Software,1000000,Seed,Mar-20
+Hallo,United States,B2B Software,614000,Seed,Apr-20
+Aspen Neuroscience,United States,Biotechnology,70000000,Series A,Apr-20
+Concertio,United States,Artificial Intelligence,4000000,Seed,Apr-20
+Phantom AI,United States,Artificial Intelligence,22000000,Series A,Apr-20
+SonderMind,United States,Health Care,27000000,Series B,Apr-20
+Everstream Solutions,United States,Cloud Data Services,343000000,Debt Financing,Apr-20
+MixMode,United States,Artificial Intelligence,4000000,Series A,Apr-20
+Cadence,United States,FinTech,4000000,Seed,Apr-20
+Arturo,United States,Artificial Intelligence,8000000,Series A,Apr-20
+AlertMedia,United States,Enterprise Software,15000000,Series C,Apr-20
+Shippo,United States,Logistics,30000000,Series C,Apr-20
+CircleCI,United States,Cloud Computing,100000000,Series E,Apr-20
+Podium,United States,B2B Software,125000000,Series C,Apr-20
+Sila,United States,FinTech,8000000,Seed,Apr-20
+IFM Restoration,United States,Real Estate,10000000,Series A,Apr-20
+Tonkean,United States,B2B Software,24000000,Series A,Apr-20
+Wellpay,United States,FinTech,4000000,Seed,Apr-20
+SeeQC,United States,Quantum Computing,5000000,Series A,Apr-20
+Kate Farms,United States,Food and Beverage,23000000,Series A,Apr-20
+Bugcrowd,United States,Cyber Security,30000000,Series D,Apr-20
+Thrasio,United States,Investing,75000000,Series B,Apr-20
+Cohesity,United States,Cloud Computing,250000000,Series E,Apr-20
+Cloosiv,United States,Logistics,500000,Seed,Apr-20
+Atlas AI,United States,Artificial Intelligence,7000000,Series A,Apr-20
+Clever Leaves,United States,Cannabis,14000000,Series E,Apr-20
+Beyond Identity,United States,"Clouyd Security, Software",30000000,Series A,Apr-20
+Rallybio,United States,Biotechnology,93000000,Series B,Apr-20
+Gembah,United States,Manufacturing,3000000,Seed,Apr-20
+Alkira,United States,Cloud Computing,30000000,Series A,Apr-20
+Coder,United States,Cloud Computing,30000000,Series B,Apr-20
+Awake Security,United States,Cloud Security,36000000,Series C,Apr-20
+Attentive,United States,B2B Software,40000000,Series C,Apr-20
+Learn In,United States,Education,4000000,Seed,Apr-20
+Everee,United States,FinTech,10000000,Series A,Apr-20
+Parsyl,United States,Supply Chain Management,15000000,Series A,Apr-20
+Greenbits,United States,Cannabis,23000000,Series B,Apr-20
+Stripe,United States,FinTech,600000000,Series G,Apr-20
+Benepass,United States,B2B Software,2000000,Seed,Apr-20
+360VUZ,United States,3D Technology,6000000,Series A,Apr-20
+Unlearn,United States,Biotechnology,12000000,Series A,Apr-20
+Guru,United States,B2B Software,30000000,Series C,Apr-20
+env0,United States,B2B Software,3000000,Seed,Apr-20
+Oyster,United States,Recruiting,4000000,Seed,Apr-20
+Biobot Analytics,United States,Biotechnology,7000000,Seed,Apr-20
+Federated Wireless,United States,Cloud Computing,14000000,Series C,Apr-20
+Vercel,United States,B2B Software,21000000,Series A,Apr-20
+ForgeRock,United States,Cyber Security,94000000,Series E,Apr-20
+Confluent,United States,B2B Software,250000000,Series E,Apr-20
+Hugo,United States,B2B Software,6000000,Seed,Apr-20
+XRHealth,United States,Health Care,7000000,Unknown,Apr-20
+Remote,United States,B2B Software,11000000,Seed,Apr-20
+Noah,United States,FinTech,150000000,Series B,Apr-20
+Randori,United States,Cloud Computing,20000000,Series A,Apr-20
+Digits,United States,FinTech,22000000,Series B,Apr-20
+Miro,United States,B2B Software,50000000,Series B,Apr-20
+AvidXchange,United States,FinTech,128000000,Series F,Apr-20
+Corsight AI,United States,Artificial Intelligence,5000000,Seed,Apr-20
+CureMint,United States,B2B Software,1000000,Seed,Apr-20
+Walrus.ai,United States,B2B Software,4000000,Seed,Apr-20
+Omura,United States,Cannabis,5000000,Seed,Apr-20
+Brain Corp,United States,Robotics,36000000,Series D,Apr-20
+Topia,United States,Human Resources,15000000,Series D,Apr-20
+Tecton,United States,Machine Learning,20000000,Series A,Apr-20
+Catalyst,United States,B2B Software,25000000,Series B,Apr-20
+Niche.com,United States,Education,35000000,Series C,Apr-20
+Mojo Vision,United States,Augmented Reality,51000000,Series B,Apr-20
+Josh.ai,United States,Artificial Intelligence,11000000,Series A,Apr-20
+Figma,United States,Design Software,50000000,Series D,Apr-20
+XWING,United States,Aerospace,10000000,Series A,May-20
+BeeHero,United States,Agriculture,4000000,Seed,May-20
+Invisible AI,United States,Artificial Intelligence,4000000,Seed,May-20
+Vise,United States,Artificial Intelligence,15000000,Series A,May-20
+Deep Labs,United States,Artificial Intelligence,16000000,Series A,May-20
+Lilt,United States,Artificial Intelligence,25000000,Series B,May-20
+FortressIQ,United States,Artificial Intelligence,30000000,Series B,May-20
+Paradox,United States,Artificial Intelligence,40000000,Series B,May-20
+Directly,United States,Artificial Intelligence,11000000,Series B,May-20
+DefinedCrowd,United States,Artificial Intelligence,51000000,Series B,May-20
+Datch,United States,Audio Tech,3000000,Seed,May-20
+Waymo,United States,Autonomous Vehicles,750000000,Unknown,May-20
+ASAPP,United States,B2B Software,185000000,Series B,May-20
+Procore,United States,B2B Software,150000000,Unknown,May-20
+Instabug,United States,B2B Software,5000000,Series A,May-20
+Daily.co,United States,B2B Software,5000000,Seed,May-20
+Jellyfish,United States,B2B Software,12000000,Series A,May-20
+Postal.io,United States,B2B Software,9000000,Series A,May-20
+Sleuth,United States,B2B Software,3000000,Seed,May-20
+Knock,United States,B2B Software,12000000,Series B,May-20
+Stardog,United States,B2B Software,3000000,Series B,May-20
+Groove,United States,B2B Software,12000000,Series A,May-20
+IntelliBoard,United States,B2B Software,3000000,Series A,May-20
+Briq,United States,B2B Software,10000000,Series A,May-20
+UpKeep,United States,B2B Software,36000000,Series B,May-20
+MemSQL,United States,B2B Software,50000000,Debt Financing,May-20
+Truework,United States,B2B Software,30000000,Series B,May-20
+Bevy,United States,B2B Software,15000000,Series B,May-20
+Deel,United States,B2B Software,14000000,Series A,May-20
+BetterCloud,United States,B2B Software,75000000,Series F,May-20
+RapidAPI,United States,B2B Software,25000000,Series B,May-20
+Brainbase,United States,B2B Software,8000000,Series A,May-20
+Amplitude,United States,B2B Software,50000000,Series E,May-20
+Command E,United States,B2B Software,4000000,Seed,May-20
+Encamp,United States,B2B Software,3000000,Series A,May-20
+Run The World,United States,B2B Software,11000000,Series A,May-20
+FullStory,United States,B2B Software,10000000,Unknown,May-20
+Spectrm,United States,B2B Software,3000000,Series A,May-20
+Gatsby,United States,B2B Software,28000000,Series B,May-20
+Census,United States,B2B Software,4000000,Seed,May-20
+Baton,United States,B2B Software,10000000,Series A,May-20
+LaterPay,United States,B2B Software,10000000,Unknown,May-20
+RudderStack,United States,B2B Software,5000000,Seed,May-20
+Nanit,United States,Baby,21000000,Series B,May-20
+SQZ Biotech,United States,Biotechnology,65000000,Series D,May-20
+ChromaCode,United States,Biotechnology,10000000,Series C,May-20
+Benchling,United States,Biotechnology,50000000,Series D,May-20
+NEAR,United States,Blockchain,22000000,ICO,May-20
+Lolli,United States,Blockchain,3000000,Seed,May-20
+Blockdaemon,United States,Blockchain,6000000,Unknown,May-20
+FalconX,United States,Blockchain,17000000,Unknown,May-20
+TokenSoft,United States,Blockchain,4000000,Unknown,May-20
+Magic,United States,Blockchain,4000000,Seed,May-20
+Charityvest,United States,Charity,1000000,Pre-Seed,May-20
+GigaSpaces,United States,Cloud Computing,12000000,Unknown,May-20
+Virtana,United States,Cloud Computing,15000000,Unknown,May-20
+DigitalOcean,United States,Cloud Computing,50000000,Series C,May-20
+Couchbase,United States,Cloud Computing,105000000,Series G,May-20
+Skyflow,United States,Cloud Security,8000000,Seed,May-20
+Enview,United States,Computer Vision,12000000,Unknown,May-20
+MakeSpace,United States,Consumer,45000000,Series E,May-20
+Coalition,United States,Cyber Security,90000000,Series C,May-20
+Synack,United States,Cyber Security,52000000,Series D,May-20
+Tugboat Logic,United States,Cyber Security,8000000,Series A,May-20
+Nautilus Data,United States,Data Center,100000000,Debt Financing,May-20
+Yardbird,United States,E-Commerce,4000000,Unknown,May-20
+Bluecore,United States,E-Commerce Platforms,50000000,Series D,May-20
+Tapcart,United States,E-Commerce Software,10000000,Series A,May-20
+Ecwid,United States,E-Commerce Software,42000000,Unknown,May-20
+Quizlet,United States,Education,30000000,Series C,May-20
+MasterClass,United States,Education,100000000,Series E,May-20
+Tankfarm,United States,Energy,4000000,Series A,May-20
+Robinhood,United States,FinTech,280000000,Series F,May-20
+Treasury Prime,United States,FinTech,9000000,Series A,May-20
+Clyde,United States,FinTech,14000000,Series A,May-20
+Aspiration,United States,FinTech,135000000,Series C,May-20
+Brex,United States,FinTech,150000000,Series C,May-20
+Unifimoney,United States,FinTech,1000000,Pre-Seed,May-20
+Fundbox,United States,FinTech,20000000,Series C,May-20
+Tock,United States,Food and Beverage,10000000,Series C,May-20
+Mindstrong,United States,Health Care,100000000,Series C,May-20
+Tia,United States,Health Care,24000000,Series A,May-20
+Insitro,United States,Health Care,143000000,Series B,May-20
+VNDLY,United States,Human Resources,9000000,Series B,May-20
+Compt,United States,Human Resources,2000000,Seed,May-20
+Workstream,United States,Human Resources,10000000,Series A,May-20
+Human Interest,United States,Human Resources,10000000,Series C,May-20
+Almanac,United States,Knowledge Management,9000000,Seed,May-20
+DispatchTrack,United States,Logistics,144000000,Unknown,May-20
+AerialSphere,United States,Mapping,5000000,Series A,May-20
+Stringr,United States,Media,6000000,Series A,May-20
+Homeward,United States,Real Estate,85000000,Debt Financing,May-20
+States Title,United States,Real Estate,123000000,Series C,May-20
+Spruce Holdings,United States,Real Estate,29000000,Series B,May-20
+SmartRent,United States,Real Estate,60000000,Series C,May-20
+Traitify,United States,Recruiting,12000000,Series B,May-20
+SVT Robotics,United States,Robotics,4000000,Seed,May-20
+Covariant,United States,Robotics,40000000,Series B,May-20
+Tripgrid,United States,Travel,2000000,Series A,May-20
+Big Sky Health,United States,Wellness,8000000,Series A,May-20
+Ezra AI,United States,Artificial Intelligence,18000000,Series A,Jun-20
+Bonusly,United States,Human Resources,9000000,Series A,Jun-20
+Spaced Ventures,United States,Venture Capital,150000,Pre-Seed,Jun-20
+Vetty,United States,B2B Software,4000000,Seed,Jun-20
+Locus Robotics,United States,Robotics,40000000,Series D,Jun-20
+1touch.io,United States,Artificial Intelligence,14000000,Series A,Jun-20
+Anvil,United States,B2B Software,5000000,Series A,Jun-20
+Betterview,United States,B2B Software,7500000,Series B,Jun-20
+Lili,United States,FinTech,10000000,Seed,Jun-20
+Varo Money,United States,FinTech,241000000,Series D,Jun-20
+CAST AI,United States,B2B Software,7664035,Seed,Jun-20
+Hyperscience,United States,Business Intelligence,60000000,Series C,Jun-20
+Inky,United States,Cyber Security,20000000,Series B,Jun-20
+ClassTag,United States,B2B Software,5000000,Seed,Jun-20
+Chargeback,United States,Fraud Detection,6600000,Series A,Jun-20
+Squire,United States,B2B Software,27000000,Series B,Jun-20
+DNAnexus,United States,Biotechnology,100000000,Series G,Jun-20
+Yugabyte,United States,Cloud Computing,30000000,Series B,Jun-20
+M1 Finance,United States,FinTech,33000000,Series B,Jun-20
+Planck,United States,Artificial Intelligence,16000000,Series B,Jun-20
+EnsoData,United States,Artificial Intelligence,9000000,Series A,Jun-20
+Canopy,United States,B2B Software,1907983,Seed,Jun-20
+Transcend,United States,B2B Software,25000000,Series A,Jun-20
+Flatfile,United States,B2B Software,7600000,Seed,Jun-20
+Domino Data Lab,United States,B2B Software,43000000,Series E,Jun-20
+Vendr,United States,B2B Software,4000000,Seed,Jun-20
+Cue,United States,Biotechnology,100000000,Series C,Jun-20
+NS8,United States,Cyber Security,123000000,Series A,Jun-20
+Intellispark,United States,Education,2300000,Seed,Jun-20
+Protera,United States,Food and Beverage,5600000,Series A,Jun-20
+Alpha Health,United States,Health Care,20000000,Series A,Jun-20
+RapidSOS,United States,Health Care,21000000,Series C,Jun-20
+SuperAnnotate,United States,Artificial Intelligence,3000000,Seed,Jun-20
+Postman,United States,B2B Software,150000000,Series C,Jun-20
+Quolum,United States,B2B Software,2750000,Seed,Jun-20
+Ethyca,United States,Cyber Security,13500000,Series A,Jun-20
+Headspace,United States,Health Care,47700000,Series C,Jun-20
+WiBotic,United States,Robotics,5700000,Series A,Jun-20
+Augmedics,United States,Augmented Reality,15000000,Series B,Jun-20
+Shattuck Labs,United States,Biotechnology,118000000,Series B,Jun-20
+Kalderos,United States,Health Care,28000000,Series B,Jun-20
+Localised,United States,Marketing,6500000,Series A,Jun-20
+Streamlit,United States,B2B Software,21000000,Series A,Jun-20
+Clockwise,United States,B2B Software,18000000,Series B,Jun-20
+DeepSource,United States,B2B Software,2600000,Seed,Jun-20
+Starburst,United States,B2B Software,42000000,Series B,Jun-20
+Salt Security,United States,Cloud Security,20000000,Series A,Jun-20
+Hydrow,United States,Fitness,25000000,Series B,Jun-20
+Akia,United States,Hospitality,1000000,Seed,Jun-20
+IonQ,United States,Quantum Computing,7000000,Series B,Jun-20
+Onna,United States,B2B Software,27000000,Series B,Jun-20
+Arena.im,United States,B2B Software,2300000,Seed,Jun-20
+River Financial,United States,Blockchain,5700000,Seed,Jun-20
+Unum ID,United States,Blockchain,2000000,Seed,Jun-20
+DroneBase,United States,Drones,7500000,Series C,Jun-20
+Pagaya Investments,United States,FinTech,102000000,Series D,Jun-20
+Botkeeper,United States,Accounting,25000000,Series B,Jun-20
+HASH,United States,Artificial Intelligence,2500000,Seed,Jun-20
+Urbint,United States,Artificial Intelligence,20000000,Series B,Jun-20
+Maystreet,United States,B2B Software,21000000,Series A,Jun-20
+Acquire,United States,B2B Software,6400000,Series A,Jun-20
+Big Health,United States,Fitness,39000000,Series B,Jun-20
+Kaia Health,United States,Wellbeing,26000000,Series B,Jun-20
+CrossTower,United States,FinTech,6000000,Seed,Jun-20
+Rasa,United States,Artificial Intelligence,26000000,Series B,Jun-20
+Urjanet,United States,B2B Software,14650000,Series D,Jun-20
+Nylas,United States,B2B Software,25000000,Series B,Jun-20
+Humanly,United States,B2B Software,800000,Seed,Jun-20
+BrightInsight,United States,Health Care,40000000,Series B,Jun-20
+ClickUp,United States,B2B Software,35000000,Series A,Jun-20
+Cape Privacy,United States,B2B Software,5000000,Seed,Jun-20
+Lightrun,United States,B2B Software,4000000,Seed,Jun-20
+Trusting Social,United States,FinTech,19000000,Series B,Jun-20
+Pipe,United States,FinTech,60000000,Seed,Jun-20
+OJO,United States,Real Estate,62500000,Series D,Jun-20
+HelloOffice,United States,Real Estate,20000000,Series A,Jun-20
+FireStart,United States,B2B Software,4486155,Series A,Jun-20
+Capital Markets Gateway,United States,FinTech,25000000,Series B,Jun-20
+Karat,United States,FinTech,4600000,Seed,Jun-20
+Candidate Labs,United States,Recruiting,5000000,Seed,Jun-20
+Codefresh,United States,Developer Tools,27000000,Series C,Jun-20
+Area 1 Security,United States,Cyber Security,25000000,Series D,Jun-20
+Cynet,United States,Cyber Security,18000000,Series B,Jun-20
+Aclaimant,United States,B2B Software,10000000,Series A,Jun-20
+Nacelle,United States,E-Commerce Platform,4800000,Seed,Jun-20
+Fivetran,United States,B2B Software,100000000,Series C,Jun-20
+Discord,United States,Social Network,100000000,Unknown,Jun-20
+Scalefast,United States,E-Commerce Platform,22000000,Series B,Jun-20
+NexHealth,United States,B2B Software,15000000,Series A,Jun-20
+Upsolver,United States,B2B Software,13300000,Series A,Jun-20
+Elementary Robotics,United States,Artificial Intelligence,12700000,Series A,Jun-20
+Bluedot,United States,B2B Software,9100000,Series B,Jun-20
+Capital,United States,Investing,9000000,Seed,Jun-20
+Pattern89,United States,B2B Software,2000000,Seed,Jun-20
+Anduril Industries,United States,Aerospace,200000000,Series C,Jul-20
+Density,United States,Analytics,51000000,Series C,Jul-20
+Huddl,United States,Artificial Intelligence,6000000,Seed,Jul-20
+Shelf Engine,United States,Artificial Intelligence,12000000,Series A,Jul-20
+Signum.ai,United States,Artificial Intelligence,500000,Seed,Jul-20
+Simply Speak,United States,Artificial Intelligence,1000000,Seed,Jul-20
+FraudScope,United States,Artificial Intelligence,7000000,Series A,Jul-20
+Sea Machines Robotics,United States,Autonomous Vehicles,15000000,Series B,Jul-20
+Sibros,United States,Autonomous Vehicles,12000000,Series A,Jul-20
+Mosaic,United States,B2B Softare,100000,Seed,Jul-20
+Turbo Systems,United States,B2B Softare,3000000,Series A,Jul-20
+Hevo Data,United States,B2B Software,8000000,Series A,Jul-20
+Chorus.ai,United States,B2B Software,45000000,Series C,Jul-20
+boostr,United States,B2B Software,7000000,Series A,Jul-20
+Paragon,United States,B2B Software,3000000,Seed,Jul-20
+Ceros,United States,B2B Software,100000000,Unknown,Jul-20
+effx,United States,B2B Software,4000000,Seed,Jul-20
+Epsagon,United States,B2B Software,10000000,Unknown,Jul-20
+Grid Raster,United States,B2B Software,3000000,Unknown,Jul-20
+Matik,United States,B2B Software,3000000,Seed,Jul-20
+Quorum,United States,B2B Software,2000000,Seed,Jul-20
+Sift,United States,B2B Software,3000000,Series A,Jul-20
+Talkdesk,United States,B2B Software,143000000,Series C,Jul-20
+Macro,United States,B2B Software,4000000,Seed,Jul-20
+Openpath,United States,B2B Software,36000000,Series C,Jul-20
+MadKudu,United States,B2B Software,6000000,Series A,Jul-20
+Qumulo,United States,B2B Software,125000000,Series E,Jul-20
+Lattice,United States,B2B Software,45000000,Series D,Jul-20
+1sm,United States,B2B Software,375000,Pre-Seed,Jul-20
+Quaestor,United States,B2B Software,6000000,Seed,Jul-20
+Puppet,United States,B2B Software,40000000,Debt Financing,Jul-20
+Trackstreet,United States,B2B Software,5000000,Seed,Jul-20
+VideoPeel,United States,B2B Software,2000000,Seed,Jul-20
+Sourcegraph,United States,B2B Software,5000000,Series B,Jul-20
+TileDB,United States,B2B Software,15000000,Series A,Jul-20
+Tenovos,United States,B2B Software,4000000,Series A,Jul-20
+Docket,United States,B2B Software,1000000,Seed,Jul-20
+Jika,United States,B2B Software,150000,Pre-Seed,Jul-20
+LogDNA,United States,B2B Software,25000000,Series C,Jul-20
+onetool,United States,B2B Software,900000,Pre-Seed,Jul-20
+OwnBackup,United States,B2B Software,50000000,Series D,Jul-20
+SetSail,United States,B2B Software,7000000,Series A,Jul-20
+Zomentum,United States,B2B Software,4000000,Seed,Jul-20
+ChannelMeter,United States,B2B Software,4000000,Seed,Jul-20
+Glympse Bio,United States,Biotechnology,47000000,Series B,Jul-20
+Qualio,United States,Biotechnology,11000000,Series A,Jul-20
+Adagio Therapeutics,United States,Biotechnology,50000000,Series A,Jul-20
+Teller Finance,United States,Blockchain,1000000,Seed,Jul-20
+Chainalysis,United States,Blockchain,13000000,Series B,Jul-20
+Curv,United States,Blockchain,23000000,Series A,Jul-20
+env0,United States,Cloud Computing,4000000,Seed,Jul-20
+Stack Overflow,United States,Communities,85000000,Series E,Jul-20
+Cover Technologies,United States,Construction,10000000,Series A,Jul-20
+Eterneva,United States,Consumer,3000000,Seed,Jul-20
+Nasuni,United States,Cyber Security,25000000,Unknown,Jul-20
+Ermetic,United States,Cyber Security,17000000,Series A,Jul-20
+RangeForce,United States,Cyber Security,16000000,Series A,Jul-20
+Whistic,United States,Cyber Security,12000000,Series A,Jul-20
+Sotero,United States,Cyber Security,5000000,Seed,Jul-20
+Auth0,United States,Cyber Security,120000000,Series F,Jul-20
+Second Front Systems,United States,Cyber Security,6000000,Seed,Jul-20
+Vendia,United States,Developer Tools,5000000,Seed,Jul-20
+Skydio,United States,Drones,100000000,Series C,Jul-20
+CALA,United States,E-Commerce,3000000,Seed,Jul-20
+Bolt,United States,E-commerce Software,50000000,Series C,Jul-20
+TeleTeachers,United States,Education,3000000,Series A,Jul-20
+Guideline,United States,FinTech,80000000,Series D,Jul-20
+Remitly,United States,FinTech,85000000,Series F,Jul-20
+Mantl,United States,FinTech,11000000,Series A,Jul-20
+Meemo,United States,FinTech,10000000,Seed,Jul-20
+Privacy.com,United States,FinTech,10000000,Series A,Jul-20
+Robinhood,United States,FinTech,320000000,Series F,Jul-20
+Bond,United States,FinTech,32000000,Series A,Jul-20
+Icon,United States,FinTech,3000000,Seed,Jul-20
+Point Card,United States,FinTech,11000000,Series A,Jul-20
+"Ready, Set, Food!",United States,Food and Beverage,3000000,Seed,Jul-20
+Crisp,United States,Food and Beverage,12000000,Series A,Jul-20
+Mori,United States,Food and Beverage,12000000,Series A,Jul-20
+Athlane,United States,Gaming,3000000,Seed,Jul-20
+Ro,United States,Health Care,200000000,Series C,Jul-20
+Kindbody,United States,Health Care,32000000,Series B,Jul-20
+Truepill,United States,Health Care,25000000,Series B,Jul-20
+Opus,United States,Human Resources,2000000,Seed,Jul-20
+Angle Health,United States,Insurance,4000000,Seed,Jul-20
+Hippo,United States,Insurance,150000000,Series E,Jul-20
+Start Sure,United States,Insureance,100000,Seed,Jul-20
+Thrasio,United States,Investing,260000000,Series C,Jul-20
+Quaestor,United States,Investing,6000000,Seed,Jul-20
+Dispatch,United States,Logistics,11000000,Series B,Jul-20
+Instrumental,United States,Manufacturing,20000000,Series B,Jul-20
+Torre,United States,Marketplace,5000000,Seed,Jul-20
+Kernel,United States,Neuroscience,53000000,Series C,Jul-20
+Turing,United States,Recruiting,5000000,Seed,Jul-20
+Gem,United States,Recruiting,37000000,Series B,Jul-20
+Jobcase,United States,Recruiting,30000000,Series B,Jul-20
+The Mom Project,United States,Recruiting,25000000,Series B,Jul-20
+Competitive Wedge,United States,Recruiting,1000000,Seed,Jul-20
+Replenysh,United States,Recycling,2000000,Seed,Jul-20
+Dexterity,United States,Robotics,56000000,Series A,Jul-20
+CY Vision,United States,Transportation,5000000,Unknown,Jul-20
+Immertec,United States,Virtual Reality,6000000,Series A,Jul-20
+The Browser Company,United States,Web Browsers,5000000,Seed,Jul-20
+Tempo,United States,Wellness,60000000,Series B,Jul-20
+Real,United States,Wellness,6000000,Seed,Jul-20
+Ergatta,United States,Wellness,5000000,Seed,Jul-20
+SpaceX,United States,Aerospace,1901446920,Unknown,Aug-20
+Truera,United States,Artificial Intelligence,5100000,Series A,Aug-20
+Syntiant,United States,Artificial Intelligence,35000000,Series C,Aug-20
+Hiretual,United States,Artificial Intelligence,13000000,Series B,Aug-20
+LitLingo,United States,Artificial Intelligence,2000000,Seed,Aug-20
+Sift Healthcare,United States,Artificial Intelligence,2800000,Series A,Aug-20
+Aetion,United States,Artificial Intelligence,19000000,Series B,Aug-20
+Dataiku,United States,Artificial Intelligence,100000000,Series D,Aug-20
+VertaAI,United States,Artificial Intelligence,10000000,Series A,Aug-20
+WorkPatterns,United States,B2B Software,2800000,Seed,Aug-20
+AgentSync,United States,B2B Software,4400000,Seed,Aug-20
+BRIO,United States,B2B Software,1900000,Seed,Aug-20
+Mode Analytics,United States,B2B Software,33000000,Series D,Aug-20
+PandaDoc,United States,B2B Software,30000000,Series B,Aug-20
+Yotpo,United States,B2B Software,75000000,Series E,Aug-20
+Coda,United States,B2B Software,80000000,Series C,Aug-20
+Compaas,United States,B2B Software,4250000,Seed,Aug-20
+Fyllo,United States,B2B Software,10000000,Series A,Aug-20
+Gong,United States,B2B Software,200000000,Series D,Aug-20
+GoSite,United States,B2B Software,16000000,Series A,Aug-20
+Oomnitza,United States,B2B Software,12500000,Series B,Aug-20
+Parabola,United States,B2B Software,8000000,Series A,Aug-20
+RevenueCat,United States,B2B Software,15000000,Series A,Aug-20
+Simpplr,United States,B2B Software,10000000,Series B,Aug-20
+Stream,United States,B2B Software,15000000,Series A,Aug-20
+Bridge Connector,United States,B2B Software,25500000,Series B,Aug-20
+Yalo,United States,B2B Software,15000000,Series B,Aug-20
+CaliberMind,United States,B2B Software,2000000,Seed,Aug-20
+SupportLogic,United States,B2B Software,9100000,Series A,Aug-20
+Blanket,United States,B2B Software,800000,Seed,Aug-20
+Chili Piper,United States,B2B Software,18000000,Series A,Aug-20
+Reflective,United States,B2B Software,1300000,Seed,Aug-20
+Stedi,United States,B2B Software,50000000,Unknown,Aug-20
+Berbix,United States,B2B Software,9000000,Series A,Aug-20
+ChartHop,United States,B2B Software,14000000,Series A,Aug-20
+LaunchNotes,United States,B2B Software,1800000,Seed,Aug-20
+MURAL,United States,B2B Software,118000000,Series B,Aug-20
+Split,United States,B2B Software,33000000,Series C,Aug-20
+Stratify Technologies,United States,B2B Software,4900000,Seed,Aug-20
+Yac,United States,B2B Software,500000,Unknown,Aug-20
+Synthego,United States,Biotechnology,100000000,Series D,Aug-20
+BlockFi,United States,Blockchain,50000000,Series C,Aug-20
+Restream,United States,Broadcasting,50000000,Series A,Aug-20
+Craft,United States,Business Intelligence,10000000,Series A,Aug-20
+Dutchie,United States,Cannabis,35000000,Series B,Aug-20
+Frontline,United States,Cloud Computing,150000,Pre-Seed,Aug-20
+Feather,United States,Consumer,30000000,Debt Financing,Aug-20
+HyperQube,United States,Cyber Security,2500000,Seed,Aug-20
+Censys,United States,Cyber Security,15500000,Series A,Aug-20
+Clean Creative,United States,Cyber Security,5000000,Series A,Aug-20
+Blumira,United States,Cyber Security,2600000,Seed,Aug-20
+Elisity,United States,Cyber Security,7500000,Seed,Aug-20
+Cyware Labs,United States,Cyber Security,10000000,Series A,Aug-20
+SpyCloud,United States,Cyber Security,30000000,Series C,Aug-20
+ReliaQuest,United States,Cyber Security,300000000,Private Equity,Aug-20
+Merico,United States,Developer Tools,4100000,Seed,Aug-20
+Mux,United States,Developer Tools,37000000,Series C,Aug-20
+Qonversion,United States,Developer Tools,850000,Seed,Aug-20
+WayScript,United States,Developer Tools,5000000,Seed,Aug-20
+Pachyderm,United States,Developer Tools,16000000,Series B,Aug-20
+Grafana Labs,United States,Developer Tools,50000000,Series B,Aug-20
+ReturnLogic,United States,E-Commerce Software,2000000,Seed,Aug-20
+Pattern,United States,E-Commerce Software,52000000,Series A,Aug-20
+Narrativ,United States,E-Commerce Software,6000000,Seed,Aug-20
+GoPeer,United States,Education,2000000,Seed,Aug-20
+Skillshare,United States,Education,66000000,Series D,Aug-20
+Lambda School,United States,Education,74000000,Series C,Aug-20
+CleverX,United States,Education,250000,Seed,Aug-20
+Juni Learning,United States,Education,10500000,Series A,Aug-20
+Xos Trucks,United States,Electric Vehicles,20000000,Unknown,Aug-20
+SiFive,United States,Electronics,61000000,Series E,Aug-20
+Ceresa,United States,Employee Training,1000000,Seed,Aug-20
+Orum.io,United States,FinTech,5200000,Seed,Aug-20
+Axle,United States,FinTech,25000000,Debt Financing,Aug-20
+SMBX,United States,FinTech,2500000,Seed,Aug-20
+Trumid,United States,FinTech,200000000,Series E,Aug-20
+Moov,United States,FinTech,5500000,Seed,Aug-20
+Robinhood,United States,FinTech,200000000,Series G,Aug-20
+CommonStock,United States,FinTech,9700000,Seed,Aug-20
+Cross River,United States,FinTech,106000000,Debt Financing,Aug-20
+Esusu,United States,FinTech,2300000,Seed,Aug-20
+Finix,United States,FinTech,30000000,Series B,Aug-20
+Machnet,United States,FinTech,40000,Seed,Aug-20
+Atomo Coffee,United States,Food and Beverage,9000000,Seed,Aug-20
+Impossible Foods,United States,Food and Beverage,200000000,Series G,Aug-20
+Atari,United States,Gaming,4500000,Series A,Aug-20
+ROOM,United States,Hardware,12500000,Series A,Aug-20
+Eden Health,United States,Health Care,25000000,Series B,Aug-20
+OneDrop,United States,Health Care,34700000,Series C,Aug-20
+PatientPop,United States,Health Care,50000000,Series C,Aug-20
+Minnow,United States,Hospitality,2200000,Seed,Aug-20
+Rippling,United States,Human Resources,145000000,Series B,Aug-20
+Carrot Fertility,United States,Human Resources,24000000,Series B,Aug-20
+Flux,United States,Human Resources,3000000,Seed,Aug-20
+HelloTeam,United States,Human Resources,3500000,Seed,Aug-20
+Welcome,United States,Human Resources,1400000,Seed,Aug-20
+Lyra Health,United States,Human Resources,110000000,Series D,Aug-20
+Republic,United States,Investing,16000000,ICO,Aug-20
+Sesh,United States,Neuroscience,1585000,Pre-Seed,Aug-20
+TemperPack,United States,Packaging,31000000,Series C,Aug-20
+Zibo,United States,Real Estate,10500000,Seed,Aug-20
+ICON,United States,Real Estate,35000000,Series A,Aug-20
+Joblist,United States,Recruiting,4000000,Seed,Aug-20
+Candidate,United States,Recruiting,1000000,Seed,Aug-20
+Turing,United States,Recruiting,6000000,Seed,Aug-20
+XYZ Robotics,United States,Robotics,20000000,Series A,Aug-20
+Leaf Agriculture,United States,Agriculture,2000000,Seed,Sep-20
+Justpoint,United States,Artificial Intelligence,1035000,Seed,Sep-20
+YesPlz,United States,Artificial Intelligence,1510000,Seed,Sep-20
+WhyLabs,United States,Artificial Intelligence,4000000,Seed,Sep-20
+Replicant,United States,Artificial Intelligence,27000000,Series A,Sep-20
+Golden,United States,Artificial Intelligence,14500000,Series A,Sep-20
+Legion,United States,Artificial Intelligence,22000000,Series B,Sep-20
+Biofourmis,United States,Artificial Intelligence,100000000,Series C,Sep-20
+Beyond Limits,United States,Artificial Intelligence,133000000,Series C,Sep-20
+XtalPi,United States,Artificial Intelligence,318800000,Series C,Sep-20
+Zymergen,United States,Artificial Intelligence,300000000,Series D,Sep-20
+Camera IQ,United States,Augmented Reality,5000000,Series A,Sep-20
+Pliant.io,United States,B2B Software,2600000,Pre-Seed,Sep-20
+AppDirect,United States,B2B Software,185000000,Private Equity,Sep-20
+Avo,United States,B2B Software,3000000,Seed,Sep-20
+Plantt,United States,B2B Software,1000000,Seed,Sep-20
+Ribbon,United States,B2B Software,1200000,Seed,Sep-20
+Collective,United States,B2B Software,8650000,Seed,Sep-20
+InCountry,United States,B2B Software,18000000,Series A,Sep-20
+Reachdesk,United States,B2B Software,6000000,Series A,Sep-20
+Shelf,United States,B2B Software,6000000,Series A,Sep-20
+Air,United States,B2B Software,12000000,Series A,Sep-20
+Courier,United States,B2B Software,10100000,Series A,Sep-20
+Laika,United States,B2B Software,10000000,Series A,Sep-20
+SquadStack,United States,B2B Software,5000000,Series A,Sep-20
+Deel,United States,B2B Software,30000000,Series B,Sep-20
+BrandTotal,United States,B2B Software,12000000,Series B,Sep-20
+Coralogix,United States,B2B Software,25000000,Series B,Sep-20
+Melio,United States,B2B Software,80000000,Series C,Sep-20
+SpotOn,United States,B2B Software,60000000,Series C,Sep-20
+Airtable,United States,B2B Software,185000000,Series D,Sep-20
+Salsify,United States,B2B Software,155000000,Series E,Sep-20
+Seismic,United States,B2B Software,92000000,Series F,Sep-20
+Nutcracker Therapeutics,United States,Biotechnology,60000000,Series B,Sep-20
+SKALE Labs,United States,Blockchain,5000000,ICO,Sep-20
+Sia,United States,Blockchain,3000000,Seed,Sep-20
+PureStake,United States,Blockchain,1400000,Seed,Sep-20
+Fluree,United States,Blockchain,2500000,Seed,Sep-20
+Data Gumbo,United States,Blockchain,4000000,Series B,Sep-20
+JupiterOne,United States,Cloud Security,19000000,Series A,Sep-20
+Silk and Sonder,United States,Consumer,3600000,Seed,Sep-20
+POM,United States,Consumer,3000000,Series A,Sep-20
+IRL,United States,Consumer,16000000,Series B,Sep-20
+Tonal,United States,Consumer,110000000,Series D,Sep-20
+Secberus,United States,Cyber Security,3240000,Seed,Sep-20
+Cloudentity,United States,Cyber Security,13000000,Series A,Sep-20
+Elevate Security,United States,Cyber Security,8250000,Series A,Sep-20
+Devo,United States,Cyber Security,60000000,Series D,Sep-20
+PopSQL,United States,Developer Tools,3400000,Seed,Sep-20
+Ahana,United States,Developer Tools,2300000,Seed,Sep-20
+Panther Labs,United States,Developer Tools,15000000,Series A,Sep-20
+Transposit,United States,Developer Tools,35000000,Series B,Sep-20
+Cube Dev,United States,Developer Tools,6200000,Seed,Sep-20
+Easy Aerial,United States,Drones,6150000,Series A,Sep-20
+Volansi,United States,Drones,50000000,Series B,Sep-20
+Acquire App,United States,E-Commerce Platforms,1700000,Pre-Seed,Sep-20
+Cartloop,United States,E-Commerce Platforms,350000,Pre-Seed,Sep-20
+Homesome,United States,E-Commerce Platforms,6700000,Series A,Sep-20
+ShipBob,United States,E-Commerce Platforms,68000000,Series D,Sep-20
+SigmaSense,United States,Electronics,22000000,Series A,Sep-20
+Nuvia,United States,Electronics,240000000,Series B,Sep-20
+Finch,United States,FinTech,1800000,Seed,Sep-20
+X1 Card,United States,FinTech,10000000,Series A,Sep-20
+Alloy,United States,FinTech,40000000,Series B,Sep-20
+Rally,United States,FinTech,17000000,Series B,Sep-20
+MineralTree,United States,FinTech,50000000,Series D,Sep-20
+Robinhood,United States,FinTech,460000000,Series G,Sep-20
+optimize.health,United States,Health Care,15600000,Series A,Sep-20
+PicnicHealth,United States,Health Care,25000000,Series B,Sep-20
+Truepill,United States,Health Care,75000000,Series C,Sep-20
+Willow,United States,Health Care,55000000,Series C,Sep-20
+Sana Benefits,United States,Human Resources,20800000,Series A,Sep-20
+Blueboard,United States,Human Resources,9300000,Series A,Sep-20
+Papaya Global,United States,Human Resources,40000000,Series B,Sep-20
+TradeLanes,United States,Logistics,4000000,Seed,Sep-20
+Intelage,United States,Logistics,3500000,Seed,Sep-20
+Sprinklr,United States,Marketing,200000000,Private Equity,Sep-20
+Influ2,United States,Marketing,3400000,Seed,Sep-20
+Attentive,United States,Marketing,230000000,Series D,Sep-20
+The Pro's Closet,United States,Marketplace,12000000,Series A,Sep-20
+Snappr,United States,Marketplace,10000000,Series A,Sep-20
+Patreon,United States,Marketplace,90000000,Series E,Sep-20
+SeeQC,United States,Quantum Computing,22400000,Series A,Sep-20
+Orchard,United States,Real Estate,69000000,Series C,Sep-20
+BrightHire,United States,Recruiting,3000000,Seed,Sep-20
+Sarcos Robotics,United States,Robotics,40000000,Series C,Sep-20
+Ouster,United States,Sensors,42000000,Series B,Sep-20
+Zwift,United States,Wellness,450000000,Series C,Sep-20
+Tilt Five,United States,3D Printing,7500000,Series A,Oct-20
+Hermeus,United States,Aerospace,16000000,Series A,Oct-20
+Zira,United States,Artificial Intelligence,3100000,Seed,Oct-20
+DataChat,United States,Artificial Intelligence,4000000,Seed,Oct-20
+Abridge,United States,Artificial Intelligence,10000000,Series A,Oct-20
+Grid AI,United States,Artificial Intelligence,18600000,Series A,Oct-20
+acceldata,United States,Artificial Intelligence,8500000,Series A,Oct-20
+Capacity,United States,Artificial Intelligence,11000000,Series C,Oct-20
+Dialpad,United States,Artificial Intelligence,100000000,Series E,Oct-20
+Stark,United States,B2B Software,1500000,Pre-Seed,Oct-20
+Doppler,United States,B2B Software,2300000,Seed,Oct-20
+DigitalBrain,United States,B2B Software,3250000,Seed,Oct-20
+Scratchpad,United States,B2B Software,3600000,Seed,Oct-20
+Memberstack,United States,B2B Software,2000000,Seed,Oct-20
+Vowel,United States,B2B Software,4300000,Seed,Oct-20
+Index,United States,B2B Software,2600000,Seed,Oct-20
+Jam,United States,B2B Software,3500000,Seed,Oct-20
+Stir Money,United States,B2B Software,4000000,Seed,Oct-20
+Hubilo,United States,B2B Software,4500000,Seed,Oct-20
+Swit,United States,B2B Software,5000000,Seed,Oct-20
+SINAI,United States,B2B Software,3800000,Seed,Oct-20
+Userpilot,United States,B2B Software,1100000,Seed,Oct-20
+Remotion,United States,B2B Software,10400000,Series A,Oct-20
+Balto,United States,B2B Software,10000000,Series A,Oct-20
+Sanity,United States,B2B Software,9300000,Series A,Oct-20
+Vivun,United States,B2B Software,18000000,Series A,Oct-20
+EveryoneSocial,United States,B2B Software,7600000,Series A,Oct-20
+Loyal,United States,B2B Software,12500000,Series A,Oct-20
+Slintel,United States,B2B Software,4200000,Series A,Oct-20
+Intellimize,United States,B2B Software,12000000,Series A,Oct-20
+Pulley,United States,B2B Software,10000000,Series A,Oct-20
+Strider,United States,B2B Software,10000000,Series A,Oct-20
+Theta Lake,United States,B2B Software,12700000,Series A,Oct-20
+Kandji,United States,B2B Software,21000000,Series A,Oct-20
+Skilljar,United States,B2B Software,33000000,Series B,Oct-20
+FOSSA,United States,B2B Software,23200000,Series B,Oct-20
+Retool,United States,B2B Software,50000000,Series B,Oct-20
+Rockset,United States,B2B Software,40000000,Series B,Oct-20
+Panoply,United States,B2B Software,10000000,Series B,Oct-20
+Unqork,United States,B2B Software,207000000,Series C,Oct-20
+SimilarWeb,United States,B2B Software,120000000,Series F,Oct-20
+Transmute,United States,Blockchain,2000000,Seed,Oct-20
+Figment,United States,Blockchain,2500000,Seed,Oct-20
+Nabis,United States,Cannabis,5000000,Series A,Oct-20
+Coiled,United States,Cloud Computing,5000000,Seed,Oct-20
+Macrometa,United States,Cloud Computing,7000000,Seed,Oct-20
+Render,United States,Cloud Computing,4500000,Seed,Oct-20
+Yotascale,United States,Cloud Computing,13000000,Series B,Oct-20
+Armory,United States,Cloud Computing,40000000,Series C,Oct-20
+Vectrix.io,United States,Cloud Security,2000000,Seed,Oct-20
+Sonrai Security,United States,Cloud Security,20000000,Series B,Oct-20
+FingerprintJS,United States,Cyber Security,4000000,Seed,Oct-20
+Secureframe,United States,Cyber Security,4500000,Seed,Oct-20
+Stairwell,United States,Cyber Security,4520000,Seed,Oct-20
+NormShield,United States,Cyber Security,7500000,Series A,Oct-20
+Sym,United States,Cyber Security,9000000,Series A,Oct-20
+StackHawk,United States,Cyber Security,10000000,Series A,Oct-20
+deepwatch,United States,Cyber Security,53000000,Series B,Oct-20
+Shipa,United States,Developer Tools,3750000,Seed,Oct-20
+Pixie Labs,United States,Developer Tools,9150000,Series A,Oct-20
+Temporal,United States,Developer Tools,18750000,Series A,Oct-20
+Argyle,United States,Developer Tools,20000000,Series A,Oct-20
+Human API,United States,Developer Tools,20000000,Series C,Oct-20
+Faire,United States,E-Commerce,170000000,Series E,Oct-20
+Shogun,United States,E-Commerce Platform,35000000,Series B,Oct-20
+Fabric,United States,E-Commerce Platform,9500000,Seed,Oct-20
+Extend,United States,E-Commerce Platform,40000000,Series B,Oct-20
+Edlyft,United States,Education,1400000,Seed,Oct-20
+Nivelo,United States,Finance,2500000,Seed,Oct-20
+NowPay,United States,Finance,2100000,Seed,Oct-20
+Finmark,United States,Finance,5000000,Seed,Oct-20
+Payrix,United States,Finance,50000000,Series A,Oct-20
+Wise,United States,Finance,12000000,Series A,Oct-20
+AccessFintech,United States,Finance,20000000,Series B,Oct-20
+Finexio,United States,Finance,23000000,Series B,Oct-20
+M1 Finance,United States,Finance,45000000,Series C,Oct-20
+Tipalti,United States,Finance,150000000,Series E,Oct-20
+Chargebee,United States,Finance,55000000,Series F,Oct-20
+Ordermark,United States,Food and Beverage,120000000,Series C,Oct-20
+Rune Labs,United States,Health Care,5000000,Seed,Oct-20
+ScriptDrop,United States,Health Care,15000000,Series A,Oct-20
+Priori,United States,Legal,6300000,Series A,Oct-20
+Onfleet,United States,Logistics,14000000,Series A,Oct-20
+Glimpse,United States,Marketing,1503120,Seed,Oct-20
+Brandzooka,United States,Marketing,5600000,Series A,Oct-20
+Welcome Homes,United States,Real Estate,5350000,Seed,Oct-20
+Neocis,United States,Robotics,72000000,Series D,Oct-20
+Walnut,United States,Sales,2500000,Seed,Oct-20
+Immerse,United States,Virtual Reality,1500000,Series A,Oct-20
+TVision,United States,Advertising,16000000,Unknown,Nov-20
+Kobiton,United States,Artificial Intelligence,14000000,Series A,Nov-20
+Ushur,United States,Artificial Intelligence,25000000,Series B,Nov-20
+OthersideAI,United States,Artificial Intelligence,2600000,Seed,Nov-20
+DataRobot,United States,Artificial Intelligence,270000000,Series F,Nov-20
+Verbit.ai,United States,Artificial Intelligence,60000000,Series C,Nov-20
+Serenade,United States,Artificial Intelligence,2100000,Seed,Nov-20
+Altana Trade,United States,Artificial Intelligence,7000000,Seed,Nov-20
+Lunewave,United States,Artificial Intelligence,7000000,Series A,Nov-20
+Nuro,United States,Autonomous Vehicles,500000000,Series C,Nov-20
+Stensul,United States,B2B Software,16000000,Series B,Nov-20
+doDOC,United States,B2B Software,500000,Seed,Nov-20
+Demoflow,United States,B2B Software,1600000,Seed,Nov-20
+Fishtown Analytics,United States,B2B Software,29500000,Series B,Nov-20
+JumpCloud,United States,B2B Software,75000000,Series E,Nov-20
+Mobilewalla,United States,B2B Software,Unknown,Seed,Nov-20
+Hypotenuse,United States,B2B Software,Unknown,Seed,Nov-20
+ControlUp,United States,B2B Software,27000000,Series C,Nov-20
+OpenPhone,United States,B2B Software,14000000,Series A,Nov-20
+ActivTrak,United States,B2B Software,50000000,Series B,Nov-20
+ZenBusiness,United States,B2B Software,55000000,Series B,Nov-20
+Superpeer,United States,B2B Software,8000000,Seed,Nov-20
+Boulevard,United States,B2B Software,27000000,Series B,Nov-20
+Pensando,United States,Cloud Computing,Unknown,Unknown,Nov-20
+Azion,United States,Cloud Computing,Unknown,Unknown,Nov-20
+PingCAP,United States,Cloud Computing,270000000,Series D,Nov-20
+Isovalent,United States,Cloud Security,29000000,Series A,Nov-20
+SentinelOne,United States,Cyber Security,267000000,Series F,Nov-20
+Digify,United States,Cyber Security,Unknown,Seed,Nov-20
+Abnormal Security,United States,Cyber Security,50000000,Series B,Nov-20
+Klaviyo,United States,E-Commerce Software,200000000,Series C,Nov-20
+MeUndies,United States,E-Commerce Store,40000000,Series C,Nov-20
+Udacity,United States,Education,75000000,Debt Financing,Nov-20
+CAIS,United States,Finance,50000000,Series B,Nov-20
+Charityvest,United States,Finance,2300000,Seed,Nov-20
+Productfy,United States,Finance,2350000,Seed,Nov-20
+HMBradley,United States,Finance,18250000,Series A,Nov-20
+Truebill,United States,Finance,17000000,Series C,Nov-20
+Level,United States,Finance,Unknown,Grant,Nov-20
+Heads Up,United States,Health Care,1300000,Seed,Nov-20
+Well Health,United States,Health Care,45000000,Series C,Nov-20
+Resilience,United States,Health Care,750000000,Series B,Nov-20
+Gatik,United States,Logistics,25000000,Series A,Nov-20
+Uhuru Design,United States,Product Design,6900000,Private Equity,Nov-20
+HOVER,United States,Real Estate,60000000,Series D,Nov-20
+Push Party,United States,Social Network,Unknown,Seed,Nov-20
+Vimeo,United States,Video,150000000,Private Equity,Nov-20
+Strava,United States,Wellness,110000000,Series F,Nov-20
+Blueprint Stats,United States,Cloud Computing,100000,Seed,Jan-21
+Juphy,United States,B2B Software,101334,Seed,Jan-21
+Allobee,United States,B2B Software,500000,Seed,Jan-21
+ZeroEyes,United States,Artificial Intelligence,1000000,Seed,Jan-21
+Bookkeeper360,United States,Recruiting,1000000,Seed,Jan-21
+Axiom Cloud,United States,Energy,1100000,Seed,Jan-21
+Clover,United States,B2B Software,1120000,Seed,Jan-21
+Kriptos,United States,Artificial Intelligence,1250000,Seed,Jan-21
+Getkart,United States,E-Commerce Store,1250000,Seed,Jan-21
+Goodfynd,United States,Food and Beverage,1500000,Seed,Jan-21
+Backtracks,United States,Artificial Intelligence,1600000,Seed,Jan-21
+Dadventures,United States,Community,2000000,Seed,Jan-21
+Roboflow,United States,Cloud Computing,2100000,Seed,Jan-21
+S'More Date,United States,Social Network,2100000,Seed,Jan-21
+Doorvest,United States,Real Estate,2500000,Seed,Jan-21
+Kanarys,United States,Human Resources,3000000,Seed,Jan-21
+GoodJob,United States,Recruiting,3000000,Seed,Jan-21
+Human AI,United States,Artificial Intelligence,3200000,Seed,Jan-21
+Sprockets,United States,Recruiting,3400000,Seed,Jan-21
+Openbase,United States,Investing,3600000,Seed,Jan-21
+Teamflow,United States,B2B Software,3900000,Seed,Jan-21
+Goalsetter,United States,Finance,3900000,Seed,Jan-21
+Bbot,United States,Finance,4000000,Seed,Jan-21
+Saddle Finance,United States,Blockhain,4300000,Seed,Jan-21
+Opal,United States,Cyber Security,430000,Seed,Jan-21
+Preciate,United States,B2B Software,4600000,Seed,Jan-21
+Preemadonna,United States,E-Commerce Store,5600000,Seed,Jan-21
+Unfolded,United States,B2B Software,6000000,Seed,Jan-21
+Abound,United States,Finance,6000000,Seed,Jan-21
+Bear Flag Robotics,United States,Robotics,7900000,Seed,Jan-21
+Kyte,United States,Automotive,9000000,Seed,Jan-21
+Gig Wage,United States,B2B Software,2500000,Series A,Jan-21
+Paubox,United States,B2B Software,4000000,Series A,Jan-21
+"NarrativeWave, Inc.",United States,B2B Software,4500000,Series A,Jan-21
+Dina Care,United States,Artificial Intelligence,7000000,Series A,Jan-21
+Arbol,United States,Insurance,7000000,Series A,Jan-21
+Yac,United States,B2B Software,7500000,Series A,Jan-21
+Gainful,United States,Wellness,7500000,Series A,Jan-21
+CybSafe,United States,Cyber Security,7643266,Series A,Jan-21
+Verusen,United States,Artificial Intelligence,8000000,Series A,Jan-21
+SafetyWing,United States,Insurance,8000000,Series A,Jan-21
+Uplifting Results Labs,United States,Wellness,8200000,Series A,Jan-21
+Arca,United States,Investing,10000000,Series A,Jan-21
+SamCart,United States,Marketplace,10000000,Series A,Jan-21
+Monument,United States,Community,10300000,Series A,Jan-21
+Outer,United States,E-Commerce Store,10500000,Series A,Jan-21
+Curtsy,United States,Marketplace,11000000,Series A,Jan-21
+Vectorized,United States,B2B Software,12500000,Series A,Jan-21
+Valtix,United States,Cyber Security,12500000,Series A,Jan-21
+Raydiant,United States,B2B Software,13000000,Series A,Jan-21
+Quantum Xchange,United States,Cyber Security,13500000,Series A,Jan-21
+Rho Business Banking,United States,Finance,15000000,Series A,Jan-21
+CookUnity,United States,Food and Beverage,15500000,Series A,Jan-21
+Molecula,United States,Artificial Intelligence,17600000,Series A,Jan-21
+Nacelle,United States,B2B Software,18000000,Series A,Jan-21
+New Wave Foods,United States,Food and Beverage,18000000,Series A,Jan-21
+DecisionLink,United States,Cloud Computing,18500000,Series A,Jan-21
+StackPulse,United States,Cloud Computing,20000000,Series A,Jan-21
+Trovata,United States,Finance,20000000,Series A,Jan-21
+Calibrate,United States,Wellness,22500000,Series A,Jan-21
+SetSail,United States,B2B Software,26000000,Series A,Jan-21
+Air Protein,United States,Food and Beverage,32000000,Series A,Jan-21
+Brigit,United States,Finance,35000000,Series A,Jan-21
+Calendly,United States,B2B Software,350000000,Series A,Jan-21
+Mission Secure,United States,Cyber Security,5600000,Series B,Jan-21
+dv01,United States,Investing,6000000,Series B,Jan-21
+dYdX,United States,Blockchain,10000000,Series B,Jan-21
+Thistle,United States,Food and Beverage,10300000,Series B,Jan-21
+Own Up,United States,Real Estate,12000000,Series A,Jan-21
+Lumiata,United States,Artificial Intelligence,14000000,Series B,Jan-21
+Syndio Solutions,United States,Human Resources,17100000,Series B,Jan-21
+Physna,United States,3D,20000000,Series B,Jan-21
+OpenDrives,United States,B2B Software,20000000,Series B,Jan-21
+Span.IO,United States,Energy,20000000,Series B,Jan-21
+Neat Capital,United States,Finance,22500000,Series B,Jan-21
+Playvox,United States,Human Resources,25000000,Series B,Jan-21
+Descript,United States,Audio,30000000,Series B,Jan-21
+Gtmhub,United States,B2B Software,30000000,Series B,Jan-21
+Check Technologies,United States,Finance,35000000,Series B,Jan-21
+Modern Treasury,United States,Finance,3800000,Series B,Jan-21
+Literati,United States,Education,40000000,Series B,Jan-21
+Chronosphere,United States,Cloud Computing,43400000,Series B,Jan-21
+AMP Robotics,United States,Artificial Intelligence,55000000,Series B,Jan-21
+You & Mr Jones,United States,Investing,60000000,Series B,Jan-21
+Fast,United States,E-Commerce Store,102000000,Series B,Jan-21
+SimpleNexus,United States,Finance,108000000,Series B,Jan-21
+iboss,United States,Cyber Security,145000000,Series B,Jan-21
+Quantum Metric,United States,B2B Software,200000000,Series B,Jan-21
+FLEXE,United States,Logistics,10000000,Series C,Jan-21
+AppDetex,United States,Cyber Security,12200000,Series C,Jan-21
+Usermind,United States,Cloud Computing,14000000,Series C,Jan-21
+AppOnboard,United States,Gaming,20000000,Series C,Jan-21
+Roostify,United States,Finance,32000000,Series C,Jan-21
+Airspace Technologies,United States,Aerospace,38000000,Series C,Jan-21
+Sitetracker,United States,B2B Software,42000000,Series C,Jan-21
+FreeWire Technologies,United States,Energy,50000000,Series C,Jan-21
+Hipcamp,United States,Travel,57000000,Series C,Jan-21
+Pilot,United States,Finance,60000000,Series C,Jan-21
+Booksy,United States,Wellness,70000000,Series C,Jan-21
+Citizen,United States,Social Network,72687675,Series C,Jan-21
+Glia,United States,B2B Software,78000000,Series C,Jan-21
+M-Files,United States,Human Resources,81797993,Series C,Jan-21
+Starburst Data,United States,B2B Software,100000000,Series C,Jan-21
+Albert,United States,Finance,100000000,Series C,Jan-21
+Melio,United States,Finance,110000000,Series C,Jan-21
+News Break,United States,Media,115000000,Series C,Jan-21
+Sidecar Health,United States,Insurance,125000000,Series C,Jan-21
+MX Technologies,United States,Finance,300000000,Series C,Jan-21
+Quali,United States,Cloud Computing,54000000,Series D,Jan-21
+SOCi,United States,B2B Software,80000000,Series D,Jan-21
+Workato,United States,B2B Software,110000000,Series D,Jan-21
+Volta Charging,United States,Energy,125000000,Series D,Jan-21
+Dremio,United States,Cloud Computing,135000000,Series D,Jan-21
+Divvy,United States,Finance,165000000,Series D,Jan-21
+OwnBackup,United States,Cloud Computing,167500000,Series D,Jan-21
+Lacework,United States,Cloud Computing,525000000,Series D,Jan-21
+JumpCloud,United States,Cloud Computing,25000000,Series E,Jan-21
+Splashtop,United States,B2B Software,50000000,Series E,Jan-21
+SalesLoft,United States,B2B Software,100000000,Series E,Jan-21
+Bloomreach,United States,E-Commerce Software,150000000,Series E,Jan-21
+TripActions,United States,Travel,155000,Series E,Jan-21
+Cockroach Labs,United States,Cloud Computing,160000000,Series E,Jan-21
+Sila Nanotechnologies,United States,Energy,590000000,Series F,Jan-21
+Blend,United States,Finance,300000000,Series G,Jan-21
+Roblox,United States,3D,520000000,Series H,Jan-21
+Axiom Space,United States,Aerospace,130000000,Series B,Feb-21
+Pairwise Plants,United States,Agriculture,90000000,Series B,Feb-21
+Latitude,United States,Artificial Intelligence,3300000,Seed,Feb-21
+Krisp,United States,Artificial Intelligence,9000000,Series A,Feb-21
+TigerGraph,United States,Artificial Intelligence,105000000,Series C,Feb-21
+Standard Cognition,United States,Artificial Intelligence,150000000,Series C,Feb-21
+Labelbox,United States,Artificial Intelligence,40000000,Series C,Feb-21
+Mai,United States,Artificial Intelligence,5000000,Series A,Feb-21
+Deepgram,United States,Artificial Intelligence,25000000,Series B,Feb-21
+Pony.ai,United States,Artificial Intelligence,100000000,Series C,Feb-21
+Electric,United States,Artificial Intelligence,40000000,Series C,Feb-21
+Pubinno,United States,Artificial Intelligence,1000000,Seed,Feb-21
+Repl.it,United States,B2B Software,20000000,Series A,Feb-21
+Otter.ai,United States,B2B Software,50000000,Series B,Feb-21
+Circle,United States,B2B Software,4000000,Seed,Feb-21
+Terminus,United States,B2B Software,90000000,Series C,Feb-21
+Prefect,United States,B2B Software,11500000,Series A,Feb-21
+Highspot,United States,B2B Software,200000000,Series E,Feb-21
+Touchcast,United States,B2B Software,55000000,Series A,Feb-21
+RapidSOS,United States,B2B Software,85000000,Series C,Feb-21
+Leadspace,United States,B2B Software,46000000,Series D,Feb-21
+Lusha Systems,United States,B2B Software,40000000,Series A,Feb-21
+Lob,United States,B2B Software,50000000,Series C,Feb-21
+Hubilo,United States,B2B Software,23500000,Series A,Feb-21
+Swift Navigation,United States,B2B Software,50000000,Series C,Feb-21
+Blueshift,United States,B2B Software,30000000,Series C,Feb-21
+Rheaply,United States,B2B Software,8000000,Series A,Feb-21
+VidMob,United States,B2B Software,50000000,Series C,Feb-21
+Thrasio,United States,B2B Software,750000000,Series D,Feb-21
+SmartHop,United States,B2B Software,12000000,Series A,Feb-21
+Fabric,United States,B2B Software,43000000,Series A,Feb-21
+Rarible,United States,Blockchain,1750000,Seed,Feb-21
+Casa,United States,Blockchain,4000000,Seed,Feb-21
+Opyn,United States,Blockchain,6700000,Series A,Feb-21
+DeFi Wizard,United States,Blockchain,750000,Seed,Feb-21
+Async Art,United States,Blockchain,2000000,Seed,Feb-21
+Axoni,United States,Blockchain,31000000,Series B,Feb-21
+DFX Finance,United States,Blockchain,5000000,Seed,Feb-21
+Kong Inc.,United States,Cloud Computing,100000000,Series D,Feb-21
+OutSystems,United States,Cloud Computing,150000000,Series E,Feb-21
+Honeycomb,United States,Cloud Computing,20000000,Series B,Feb-21
+Sentry,United States,Cloud Computing,60000000,Series D,Feb-21
+ScienceLogic,United States,Cloud Computing,105000000,Series E,Feb-21
+Platform9,United States,Cloud Computing,12500000,Series D,Feb-21
+HowGood,United States,Cloud Computing,6000000,Series A,Feb-21
+Nobl9,United States,Cloud Computing,21000000,Series B,Feb-21
+Rescale,United States,Cloud Computing,50000000,Series C,Feb-21
+Aviatrix Systems,United States,Cloud Computing,75000000,Series D,Feb-21
+Pex,United States,Cloud Computing,57000000,Series A,Feb-21
+Commsor,United States,Community,16000000,Series A,Feb-21
+Maple,United States,Consumer,3500000,Seed,Feb-21
+ProjectDiscovery,United States,Cyber Security,1700000,Seed,Feb-21
+1Kosmos,United States,Cyber Security,15000000,Series A,Feb-21
+Cyble,United States,Cyber Security,200000,Pre-Seed,Feb-21
+Armis Security,United States,Cyber Security,125000000,Series D,Feb-21
+PerimeterX,United States,Cyber Security,57000000,Series D,Feb-21
+Census,United States,Cyber Security,16000000,Series A,Feb-21
+Alloy Automation,United States,E-Commerce Software,5000000,Seed,Feb-21
+Burrow,United States,E-Commerce Software,25000000,Series C,Feb-21
+Savage X,United States,E-Commerce Store,115000000,Series B,Feb-21
+Good Eggs,United States,E-Commerce Store,100000000,Series D,Feb-21
+Healthy Roots Dolls,United States,E-Commerce Store,1000000,Seed,Feb-21
+Zencastr,United States,E-Commerce Store,4600000,Seed,Feb-21
+Nanit,United States,E-Commerce Store,25000000,Series C,Feb-21
+BloomNation,United States,E-Commerce Store,11000000,Series B,Feb-21
+Tovala,United States,E-Commerce Store,30000000,Series C,Feb-21
+talkshoplive,United States,E-Commerce Store,3000000,Seed,Feb-21
+Heyday,United States,E-Commerce Store,20000000,Series B,Feb-21
+Beam Organics,United States,E-Commerce Store,5000000,Series A,Feb-21
+Codecademy,United States,Education,40000000,Series D,Feb-21
+Reforge,United States,Education,21000000,Series A,Feb-21
+Photomath,United States,Education,23000000,Series B,Feb-21
+SplashLearn,United States,Education,18000000,Series C,Feb-21
+AdmitHub,United States,Education,14000000,Series B,Feb-21
+Dandelion Energy,United States,Energy,30000000,Series B,Feb-21
+Anchorage,United States,Finance,80000000,Series C,Feb-21
+Stori Card,United States,Finance,32500000,Series B,Feb-21
+NYMBUS,United States,Finance,53000000,Series C,Feb-21
+EarnUp,United States,Finance,25000000,Series B,Feb-21
+Human Interest,United States,Finance,55000000,Series C,Feb-21
+SoLo Funds,United States,Finance,10000000,Series A,Feb-21
+Zeta,United States,Finance,1500000,Pre-Seed,Feb-21
+First Boulevard,United States,Finance,5000000,Seed,Feb-21
+Built Technologies,United States,Finance,88000000,Series C,Feb-21
+Vivino,United States,Food and Beverage,155000000,Series D,Feb-21
+Peatos,United States,Food and Beverage,12500000,Series B,Feb-21
+Foxtrot,United States,Food and Beverage,42000000,Series B,Feb-21
+Millions,United States,Gaming,3000000,Seed,Feb-21
+Jackpocket,United States,Gaming,50000000,Series C,Feb-21
+Redox,United States,Health Care,45000000,Series D,Feb-21
+Medisafe,United States,Health Care,30000000,Series C,Feb-21
+Miroculus,United States,Health Care,45000000,Series B,Feb-21
+ABclonal,United States,Health Care,93000000,Series C,Feb-21
+Modern Health,United States,Health Care,74000000,Series D,Feb-21
+Inivata,United States,Health Care,35000000,Series C,Feb-21
+Plume,United States,Health Care,14000000,Series A,Feb-21
+DocSpace,United States,Health Care,100000,Pre-Seed,Feb-21
+Alma,United States,Health Care,28000000,Series B,Feb-21
+Carevive Systems,United States,Health Care,18000000,Series C,Feb-21
+Evolve Biosystems,United States,Health Care,55000000,Series D,Feb-21
+FOLX Health,United States,Health Care,25000000,Series A,Feb-21
+BetterUp,United States,Human Resources,125000000,Series D,Feb-21
+Torch,United States,Human Resources,25000000,Series B,Feb-21
+GoContractor,United States,Human Resources,5000000,Series A,Feb-21
+Public.com,United States,Investing,220000000,Series D,Feb-21
+Vested Finance,United States,Investing,3600000,Seed,Feb-21
+Titan,United States,Investing,12500000,Series A,Feb-21
+Kalshi,United States,Investing,30000000,Series A,Feb-21
+Shippo,United States,Logistics,45000000,Series D,Feb-21
+Fictiv,United States,Manufacturing,35000000,Series D,Feb-21
+Abound,United States,Marketplace,22900000,Series A,Feb-21
+Newsela,United States,Media,100000000,Series D,Feb-21
+Splice,United States,Music,55000000,Series D,Feb-21
+Divvy,United States,Real Estate,110000000,Series C,Feb-21
+Mighty Buildings,United States,Real Estate,40000000,Series B,Feb-21
+LeaseLock,United States,Real Estate,52000000,Series B,Feb-21
+UiPath,United States,Robotics,750000000,Series F,Feb-21
+Locus Robotics,United States,Robotics,150000000,Series E,Feb-21
+Reddit,United States,Social Network,250000000,Series E,Feb-21
+Timeshifter,United States,Travel,2000000,Seed,Feb-21
+ZeroAvia,United States,Aerospace,24300000,Series A,Mar-21
+Hugging Face,United States,Artificial Intelligence,40000000,Series B,Mar-21
+6sense,United States,Artificial Intelligence,125000000,Series D,Mar-21
+CopyAI,United States,Artificial Intelligence,2900000,Seed,Mar-21
+SchooLinks,United States,Artificial Intelligence,8300000,Series A,Mar-21
+WorkFusion,United States,Artificial Intelligence,220000000,Series F,Mar-21
+Icertis,United States,Artificial Intelligence,80000000,Series F,Mar-21
+Viz,United States,Artificial Intelligence,71000000,Series C,Mar-21
+Uniphore,United States,Artificial Intelligence,140000000,Series D,Mar-21
+Dataminr,United States,Artificial Intelligence,475000000,Series F,Mar-21
+Bunch,United States,Artificial Intelligence,1000000,Seed,Mar-21
+OctoML,United States,Artificial Intelligence,28000000,Series B,Mar-21
+Pico Interactive,United States,Augmented Reality,37400000,Series B,Mar-21
+Substack,United States,B2B Software,65000000,Series B,Mar-21
+Yotpo,United States,B2B Software,230000000,Series F,Mar-21
+Pipe,United States,B2B Software,50000000,Series A,Mar-21
+Docker,United States,B2B Software,23000000,Series B,Mar-21
+Airtable,United States,B2B Software,270000000,Series E,Mar-21
+Fetch Rewards,United States,B2B Software,210000000,Series D,Mar-21
+Stream,United States,B2B Software,38000000,Series B,Mar-21
+Socure,United States,B2B Software,100000000,Series D,Mar-21
+Notarize,United States,B2B Software,130000000,Series D,Mar-21
+SafeGraph,United States,B2B Software,45000000,Series B,Mar-21
+Bevy,United States,B2B Software,40000000,Series C,Mar-21
+Ecomedes,United States,B2B Software,3250000,Seed,Mar-21
+75F,United States,B2B Software,4750000,Series A,Mar-21
+KUDO,United States,B2B Software,21000000,Series A,Mar-21
+AnyRoad,United States,B2B Software,10000000,Series A,Mar-21
+Parabol,United States,B2B Software,8000000,Series A,Mar-21
+Attentive,United States,B2B Software,470000000,Series E,Mar-21
+Price.com,United States,B2B Software,10000000,Seed,Mar-21
+Windfall,United States,B2B Software,21000000,Series A,Mar-21
+DataGrail,United States,B2B Software,30000000,Series B,Mar-21
+River Financial,United States,Blockchain,12000000,Series A,Mar-21
+BlockFi,United States,Blockchain,350000000,Series D,Mar-21
+evaluate.market,United States,Blockchain,1600000,Pre-Seed,Mar-21
+Connext,United States,Blockchain,2200000,Seed,Mar-21
+MobileCoin,United States,Blockchain,11350000,Series A,Mar-21
+Syndicate,United States,Blockchain,1000000,Seed,Mar-21
+Element Finance,United States,Blockchain,4400000,Seed,Mar-21
+Fireblocks,United States,Blockchain,133000000,Series C,Mar-21
+PureStake,United States,Blockchain,6000000,Series A,Mar-21
+Esprezzo,United States,Blockchain,2000000,Seed,Mar-21
+Airbyte,United States,Cloud Computing,5200000,Seed,Mar-21
+Tomorrow.io,United States,Cloud Computing,77000000,Series D,Mar-21
+HYCU,United States,Cloud Computing,87500000,Series A,Mar-21
+Yugabyte,United States,Cloud Computing,48000000,Series C,Mar-21
+Karbon,United States,Cloud Computing,10000000,Series A,Mar-21
+Tetrate,United States,Cloud Computing,40000000,Series B,Mar-21
+Populus,United States,Cloud Computing,5000000,Seed,Mar-21
+ChurnZero,United States,Cloud Computing,25000000,Series B,Mar-21
+Language I/O,United States,Cloud Computing,5000000,Series A,Mar-21
+Striim,United States,Cloud Computing,50000000,Series C,Mar-21
+ActionIQ,United States,Cloud Computing,68000000,Series C,Mar-21
+On Deck,United States,Community,20000000,Series A,Mar-21
+Unite Us,United States,Community,150000000,Series C,Mar-21
+Cleo,United States,Community,40000000,Series C,Mar-21
+Neeva,United States,Consumer,40000000,Series B,Mar-21
+Snyk,United States,Cyber Security,300000000,Series E,Mar-21
+SecurityScorecard,United States,Cyber Security,180000000,Series E,Mar-21
+Cyware,United States,Cyber Security,30000000,Series B,Mar-21
+Feedzai,United States,Cyber Security,200000000,Series D,Mar-21
+Trust Stamp,United States,Cyber Security,1000000,Series A,Mar-21
+OpenOcean,United States,Data,2000000,Seed,Mar-21
+Skycatch,United States,Drones,25000000,Series C,Mar-21
+Webscale,United States,E-Commerce Software,26000000,Series C,Mar-21
+Lolli,United States,E-Commerce Store,5000000,Seed,Mar-21
+Harry's,United States,E-Commerce Store,155000000,Series E,Mar-21
+Section4,United States,Education,30000000,Series A,Mar-21
+Project Wayfinder,United States,Education,1500000,Seed,Mar-21
+Flutterwave,United States,Finance,170000000,Series C,Mar-21
+Fei Protocol,United States,Finance,19000000,Series A,Mar-21
+M1 Finance,United States,Finance,75000000,Series D,Mar-21
+Greenwood Bank,United States,Finance,40000000,Series A,Mar-21
+Flywire,United States,Finance,60000000,Series F,Mar-21
+Gatsby,United States,Finance,10000000,Series A,Mar-21
+Alt,United States,Finance,31000000,Series A,Mar-21
+Afriex,United States,Finance,1200000,Seed,Mar-21
+Clari,United States,Finance,150000000,Series E,Mar-21
+Sakara Life,United States,Food and Beverage,15000000,Series B,Mar-21
+Mason Dixie Foods,United States,Food and Beverage,6300000,Series A,Mar-21
+iFoodDS,United States,Food and Beverage,15000000,Series A,Mar-21
+Frost Giant Studios,United States,Gaming,5000000,Seed,Mar-21
+Rogue Games,United States,Gaming,2500000,Series A,Mar-21
+ZenSports,United States,Gaming,2400000,Series A,Mar-21
+Ryu Games,United States,Gaming,2300000,Seed,Mar-21
+HiDEF,United States,Gaming,7500000,Series A,Mar-21
+Manticore Games,United States,Gaming,100000000,Series C,Mar-21
+Unchained Capital,United States,Health Care,5500000,Seed,Mar-21
+Forward,United States,Health Care,225000000,Series D,Mar-21
+Ginger,United States,Health Care,100000000,Series E,Mar-21
+Caribou Biosciences,United States,Health Care,115000000,Series C,Mar-21
+Cityblock Health,United States,Health Care,192000000,Series C,Mar-21
+AppliedVR,United States,Health Care,29000000,Series A,Mar-21
+Evidation Health,United States,Health Care,153000000,Series E,Mar-21
+Ro,United States,Health Care,500000000,Series D,Mar-21
+Insitro,United States,Health Care,400000000,Series C,Mar-21
+Glooko,United States,Health Care,30000000,Series D,Mar-21
+Beam Dental,United States,Health Care,80000000,Series E,Mar-21
+Pear Therapeutics,United States,Health Care,20000000,Series D,Mar-21
+CirrusMD,United States,Health Care,20000000,Series C,Mar-21
+DispatchHealth,United States,Health Care,200000000,Series D,Mar-21
+Komodo Health,United States,Health Care,220000000,Series E,Mar-21
+TytoCare,United States,Health Care,50000000,Series D,Mar-21
+RefleXion Medical,United States,Health Care,40000000,Series D,Mar-21
+Crossover Health,United States,Health Care,168000000,Series D,Mar-21
+Pace mate,United States,Health Care,8000000,Series A,Mar-21
+EGenesis,United States,Health Care,125000000,Series C,Mar-21
+Lattice,United States,Human Resources,60000000,Series E,Mar-21
+Republic,United States,Investing,36000000,Series A,Mar-21
+MainStreet,United States,Investing,60000000,Series A,Mar-21
+Stockal,United States,Investing,1000000,Seed,Mar-21
+EnrichHER,United States,Investing,700000,Seed,Mar-21
+AcreTrader,United States,Investing,12000000,Series A,Mar-21
+URB-E,United States,Logistics,5000000,Series A,Mar-21
+FourKites,United States,Logistics,100000000,Series D,Mar-21
+Stord,United States,Logistics,65000000,Series C,Mar-21
+SuperRare,United States,Marketplace,9000000,Series A,Mar-21
+Cameo,United States,Marketplace,100000000,Series C,Mar-21
+Connected2Fiber,United States,Marketplace,12000000,Series B,Mar-21
+Whatnot,United States,Marketplace,20000000,Series A,Mar-21
+Looped,United States,Media,7700000,Seed,Mar-21
+Fuzzy,United States,Pets,18000000,Series B,Mar-21
+Belong,United States,Real Estate,40000000,Series B,Mar-21
+TalentQL,United States,Recruiting,120000,Pre-Seed,Mar-21
+Apploi,United States,Recruiting,8000000,Series B,Mar-21
+User Interviews,United States,Recruiting,10000000,Series A,Mar-21
+UnitedMasters,United States,Social Network,50000000,Series B,Mar-21
+Around,United States,Social Network,10000000,Series A,Mar-21
+Daily.co,United States,Social Network,15000000,Series A,Mar-21
+Gopuff,United States,Transportation,1150000000,Series G,Mar-21
+Tripscout,United States,Travel,2300000,Seed,Mar-21
+Ecovative Design,United States,Wellness,60000000,Series D,Mar-21
+Tonal,United States,Wellness,250000000,Series E,Mar-21
+Higharc,United States,3D,21000000,Series A,Apr-21
+HawkEye 360,United States,Aerospace,55000000,Series C,Apr-21
+Albedo,United States,Aerospace,10000000,Seed,Apr-21
+Hazel Technologies,United States,Agriculture,70000000,Series C,Apr-21
+Scale AI,United States,Artificial Intelligence,325000000,Series E,Apr-21
+Snorkel AI,United States,Artificial Intelligence,35000000,Series B,Apr-21
+GumGum,United States,Artificial Intelligence,75000000,Series E,Apr-21
+Phenom People,United States,Artificial Intelligence,100000000,Series D,Apr-21
+Aisera,United States,Artificial Intelligence,40000000,Series C,Apr-21
+Virtualitics,United States,Artificial Intelligence,18000000,Series B,Apr-21
+Kyligence,United States,Artificial Intelligence,70000000,Series D,Apr-21
+Mem Labs,United States,Artificial Intelligence,5600000,Seed,Apr-21
+SambaNova Systems,United States,Artificial Intelligence,676000000,Series D,Apr-21
+Narrativa,United States,Artificial Intelligence,1300000,Series A,Apr-21
+Hive,United States,Artificial Intelligence,50000000,Series D,Apr-21
+Leo,United States,Augmented Reality,3000000,Seed,Apr-21
+Classy,United States,B2B Software,118000000,Series D,Apr-21
+ActiveCampaign,United States,B2B Software,240000000,Series C,Apr-21
+Streamlit,United States,B2B Software,35000000,Series B,Apr-21
+Productboard,United States,B2B Software,72000000,Series C,Apr-21
+Snappy Kraken,United States,B2B Software,6000000,Series A,Apr-21
+Boundless,United States,B2B Software,25000000,Series B,Apr-21
+Scorpion,United States,B2B Software,100000000,Series A,Apr-21
+Chili Piper,United States,B2B Software,33000000,Series B,Apr-21
+TABLE.co,United States,B2B Software,3000000,Seed,Apr-21
+Bushel,United States,B2B Software,47000000,Series C,Apr-21
+Thrasio,United States,B2B Software,100000000,Series C,Apr-21
+Alyce,United States,B2B Software,30000000,Series B,Apr-21
+Holler,United States,B2B Software,36000000,Series B,Apr-21
+Casted,United States,B2B Software,7000000,Series A,Apr-21
+Copysmith,United States,B2B Software,10000000,Seed,Apr-21
+The Defiant,United States,Blockchain,1400000,Pre-Seed,Apr-21
+Lever.Network,United States,Blockchain,600000,Seed,Apr-21
+Equilibrium,United States,Blockchain,2500000,Seed,Apr-21
+Digital Asset,United States,Blockchain,120000000,Series D,Apr-21
+Iron Fish,United States,Blockchain,5300000,Seed,Apr-21
+Filebase,United States,Blockchain,2000000,Seed,Apr-21
+Alto Solutions,United States,Blockchain,17000000,Series A,Apr-21
+Connected Cannabis,United States,Cannabis,30000000,Series A,Apr-21
+RapidAPI,United States,Cloud Computing,60000000,Series C,Apr-21
+BigID,United States,Cloud Computing,30000000,Series D,Apr-21
+Groq,United States,Cloud Computing,300000000,Series C,Apr-21
+OneStream Software,United States,Cloud Computing,200000000,Series B,Apr-21
+Logiwa,United States,Cloud Computing,8500000,Series A,Apr-21
+Comet.ml,United States,Cloud Computing,13000000,Series A,Apr-21
+Cape Privacy,United States,Cloud Computing,20000000,Series A,Apr-21
+Noiseaware,United States,Cloud Computing,8000000,Series A,Apr-21
+TetraScience,United States,Cloud Computing,80000000,Series B,Apr-21
+Era Software,United States,Cloud Computing,15250000,Series A,Apr-21
+Seeq,United States,Cloud Computing,50000000,Series C,Apr-21
+GupShup,United States,Cloud Computing,100000000,Series F,Apr-21
+Itential,United States,Cloud Computing,20000000,Series B,Apr-21
+Redis Labs,United States,Community,110000000,Series G,Apr-21
+Papa,United States,Community,60000000,Series C,Apr-21
+NBTV,United States,Consumer,10000000,Series A,Apr-21
+HYPR,United States,Cyber Security,35000000,Series C,Apr-21
+Deep Instinct,United States,Cyber Security,100000000,Series D,Apr-21
+OneTrust,United States,Cyber Security,210000000,Series C,Apr-21
+Cyble,United States,Cyber Security,4000000,Seed,Apr-21
+Intrigue Corporation,United States,Cyber Security,2000000,Seed,Apr-21
+Thistle Technolgies,United States,Cyber Security,2500000,Seed,Apr-21
+Signifyd,United States,E-Commerce Software,205000000,Series E,Apr-21
+SmartCommerce,United States,E-Commerce Software,13000000,Series B,Apr-21
+Floyd,United States,E-Commerce Store,15000000,Series B,Apr-21
+soona,United States,E-Commerce Store,10200000,Series A,Apr-21
+Degreed,United States,Education,153000000,Series D,Apr-21
+Outlier,United States,Education,30000000,Series B,Apr-21
+SchoolHouse,United States,Education,8100000,Seed,Apr-21
+Plaid,United States,Finance,425000000,Series D,Apr-21
+Chargebee,United States,Finance,125000000,Series G,Apr-21
+Ramp,United States,Finance,115000000,Series B,Apr-21
+Tribal Credit,United States,Finance,34300000,Series A,Apr-21
+BrightPlan,United States,Finance,9500000,Series A,Apr-21
+Slice,United States,Food and Beverage,40000000,Series D,Apr-21
+Territory Foods,United States,Food and Beverage,22000000,Series B,Apr-21
+Good Catch,United States,Food and Beverage,26350000,Series B,Apr-21
+Bartesian,United States,Food and Beverage,20000000,Series A,Apr-21
+Atlast Food,United States,Food and Beverage,40000000,Series A,Apr-21
+Overtime,United States,Gaming,80000000,Series C,Apr-21
+Bitmovin,United States,Gaming,25000000,Series C,Apr-21
+Inscripta,United States,Gaming,150000000,Series E,Apr-21
+Generation Esports,United States,Gaming,10800000,Series A,Apr-21
+Virta Health,United States,Health Care,133000000,Series E,Apr-21
+Seed Health,United States,Health Care,40000000,Series A,Apr-21
+Benchling,United States,Health Care,200000000,Series E,Apr-21
+Medable,United States,Health Care,78000000,Series C,Apr-21
+Current Health,United States,Health Care,43000000,Series B,Apr-21
+Cresilon,United States,Health Care,14000000,Series A,Apr-21
+Peachy,United States,Health Care,2000000,Pre-Seed,Apr-21
+Seqster,United States,Health Care,12000000,Series A,Apr-21
+Vizgen,United States,Health Care,37000000,Series B,Apr-21
+Pendulum Therapeutics,United States,Health Care,54000000,Series C,Apr-21
+Tesseract Health,United States,Health Care,80000000,Series B,Apr-21
+Universal Hydrogen,United States,Health Care,20500000,Series A,Apr-21
+Orchid,United States,Health Care,4500000,Seed,Apr-21
+OpenLoop,United States,Health Care,3000000,Seed,Apr-21
+Real,United States,Health Care,10000000,Series A,Apr-21
+Inbox Health,United States,Health Care,15000000,Series A,Apr-21
+Brave Care,United States,Health Care,10000000,Series A,Apr-21
+Firefly Health,United States,Health Care,40000000,Series B,Apr-21
+Molecular Assemblies,United States,Health Care,24000000,Series A,Apr-21
+Next Insurance,United States,Insurance,250000000,Series E,Apr-21
+The Zebra,United States,Insurance,150000000,Series D,Apr-21
+Clearcover,United States,Insurance,200000000,Series D,Apr-21
+Vericred,United States,Insurance,23000000,Series B,Apr-21
+Percent,United States,Investing,12500000,Series A,Apr-21
+StarStock,United States,Marketplace,8000000,Series A,Apr-21
+Mercato,United States,Marketplace,26000000,Series A,Apr-21
+Misfits Market,United States,Marketplace,200000000,Series C,Apr-21
+Gear Focus,United States,Marketplace,400000,Seed,Apr-21
+Rock The Bells,United States,Media,8000000,Series A,Apr-21
+IRIS.TV,United States,Media,18000000,Series B,Apr-21
+Fintor,United States,Real Estate,2500000,Seed,Apr-21
+HqO,United States,Real Estate,60000000,Series C,Apr-21
+Deel,United States,Recruiting,156000000,Series C,Apr-21
+Patreon,United States,Social Network,155000000,Series F,Apr-21
+Sendbird,United States,Social Network,100000000,Series C,Apr-21
+illumy,United States,Social Network,2200000,Angel,Apr-21
+Astranis,United States,Telecommunications,250000000,Series C,Apr-21
+Tempo,United States,Wellness,220000000,Series C,Apr-21
+Formlabs,United States,3D,150000000,Series E,May-21
+Merlin Labs,United States,Aerospace,25000000,Series B,May-21
+Inari,United States,Agriculture,208000000,Series D,May-21
+ProducePay,United States,Agriculture,43000000,Series C,May-21
+Vise,United States,Artificial Intelligence,65000000,Series C,May-21
+Marketing AI Institute,United States,Artificial Intelligence,1000000,Seed,May-21
+Fireflies.ai,United States,Artificial Intelligence,14000000,Series A,May-21
+Dyno Therapeutics,United States,Artificial Intelligence,100000000,Series A,May-21
+PathAI,United States,Artificial Intelligence,165000000,Series C,May-21
+Reclaim.ai,United States,Artificial Intelligence,4800000,Seed,May-21
+Mythic,United States,Artificial Intelligence,70000000,Series C,May-21
+VIA,United States,Artificial Intelligence,10000000,Series A,May-21
+Derq,United States,Artificial Intelligence,500000,Seed,May-21
+Clinch,United States,Artificial Intelligence,10200000,Series A,May-21
+ASAPP,United States,Artificial Intelligence,120000000,Series C,May-21
+StarTree,United States,Artificial Intelligence,24000000,Series A,May-21
+SuperOps.ai,United States,Artificial Intelligence,3000000,Seed,May-21
+"Gregarious, Inc.",United States,Artificial Intelligence,5400000,Seed,May-21
+Electra Vehicles,United States,Artificial Intelligence,4383769,Seed,May-21
+Legion Technologies,United States,Artificial Intelligence,50000000,Series C,May-21
+Virtuix,United States,Augmented Reality,19000000,Series A,May-21
+Help Lightning,United States,Augmented Reality,2500000,Series A,May-21
+Promo.com,United States,B2B Software,16000000,Series B,May-21
+Loom,United States,B2B Software,130000000,Series C,May-21
+Aurora Solar,United States,B2B Software,250000000,Series C,May-21
+HoneyBook,United States,B2B Software,155000000,Series D,May-21
+Skiff,United States,B2B Software,3700000,Seed,May-21
+SpotOn,United States,B2B Software,125000000,Series D,May-21
+Workboard,United States,B2B Software,75000000,Series D,May-21
+Code Ocean,United States,B2B Software,15000000,Series A,May-21
+Spot,United States,B2B Software,5000000,Seed,May-21
+Choozle,United States,B2B Software,15000000,Series C,May-21
+Nearby,United States,B2B Software,21000000,Series A,May-21
+VAST Data,United States,B2B Software,83000000,Series D,May-21
+Snapdocs,United States,B2B Software,150000000,Series D,May-21
+Arcturus,United States,B2B Software,5000000,Seed,May-21
+Florence Healthcare,United States,B2B Software,80000000,Series C,May-21
+Collective,United States,B2B Software,20000000,Series A,May-21
+Qualified.com,United States,B2B Software,51000000,Series B,May-21
+Airkit,United States,B2B Software,40000000,Series B,May-21
+Rewatch,United States,B2B Software,20000000,Series A,May-21
+VividCharts,United States,B2B Software,2000000,Seed,May-21
+Perch,United States,B2B Software,775000000,Series A,May-21
+Prodoscore,United States,B2B Software,3000000,Series A,May-21
+Snappy,United States,B2B Software,70000000,Series C,May-21
+4me,United States,B2B Software,2300000,Seed,May-21
+Uptrust,United States,B2B Software,2000000,Seed,May-21
+Extend,United States,B2B Software,260000000,Series C,May-21
+AVATOUR,United States,B2B Software,2900000,Seed,May-21
+Coin Metrics,United States,Blockchain,15000000,Series B,May-21
+Chia Network,United States,Blockchain,61000000,Series D,May-21
+PolySign,United States,Blockchain,53000000,Series B,May-21
+Burnt Finance,United States,Blockchain,3000000,Seed,May-21
+Bitski,United States,Blockchain,19000000,Series A,May-21
+Solidus Labs,United States,Blockchain,20000000,Series A,May-21
+OneOf,United States,Blockchain,63000000,Seed,May-21
+Talos Trading,United States,Blockchain,40000000,Series A,May-21
+Datacy,United States,Blockchain,2400000,Seed,May-21
+QuickNode,United States,Blockchain,5300000,Seed,May-21
+CircleCI,United States,Cloud Computing,100000000,Series F,May-21
+Prismic,United States,Cloud Computing,20000000,Series A,May-21
+Airbyte,United States,Cloud Computing,26000000,Series A,May-21
+Apptopia,United States,Cloud Computing,20000000,Series C,May-21
+Rome,United States,Cloud Computing,4500000,Seed,May-21
+Wasabi Technologies,United States,Cloud Computing,25000000,Series C,May-21
+Edge Impulse,United States,Cloud Computing,15000000,Series A,May-21
+Timescale,United States,Cloud Computing,40000000,Series B,May-21
+Crayon,United States,Cloud Computing,22000000,Series B,May-21
+RevenueCat,United States,Cloud Computing,40000000,Series B,May-21
+Coiled,United States,Cloud Computing,21000000,Series A,May-21
+MacroFab,United States,Cloud Computing,15000000,Series B,May-21
+Esper,United States,Cloud Computing,30000000,Series B,May-21
+Styra,United States,Cloud Computing,40000000,Series B,May-21
+Immuta,United States,Cloud Computing,90000000,Series D,May-21
+SightCall,United States,Cloud Computing,42000000,Series B,May-21
+Zenlayer,United States,Cloud Computing,50000000,Series C,May-21
+Datanomix,United States,Cloud Computing,6000000,Series A,May-21
+Topia,United States,Cloud Computing,5000000,Seed,May-21
+Qualio,United States,Cloud Computing,50000000,Series B,May-21
+OtterTune,United States,Cloud Computing,2500000,Seed,May-21
+Cyral,United States,Cloud Computing,26000000,Series B,May-21
+LucidLink,United States,Cloud Computing,12000000,Series A,May-21
+Cloud Campaign,United States,Cloud Computing,5000000,Series A,May-21
+Optiyol,United States,Cloud Computing,810000,Seed,May-21
+Molecule Software,United States,Cloud Computing,12000000,Series A,May-21
+Assignar,United States,Cloud Computing,20000000,Series B,May-21
+ndustrial.io,United States,Cloud Computing,6000000,Series A,May-21
+JupiterOne,United States,Cloud Computing,30000000,Series B,May-21
+Syncari,United States,Cloud Computing,17300000,Series A,May-21
+Poparazzi,United States,Community,20000000,Series A,May-21
+Orbit,United States,Community,15000000,Series A,May-21
+Curio Digital,United States,Consumer,7000000,Seed,May-21
+Huntress,United States,Cyber Security,40000000,Series B,May-21
+Arkose Labs,United States,Cyber Security,70000000,Series C,May-21
+Uptycs,United States,Cyber Security,50000000,Series C,May-21
+Salt Security,United States,Cyber Security,70000000,Series C,May-21
+Material Security,United States,Cyber Security,40000000,Series B,May-21
+Vanta,United States,Cyber Security,50000000,Series A,May-21
+Persona,United States,Cyber Security,50000000,Series B,May-21
+VisibleRisk,United States,Cyber Security,25000000,Series A,May-21
+ThreatLocker Inc,United States,Cyber Security,20000000,Series B,May-21
+BluBracket,United States,Cyber Security,12000000,Series A,May-21
+Airspace Link,United States,Drones,10000000,Series A,May-21
+Roofr,United States,Drones,4250000,Seed,May-21
+Klaviyo,United States,E-Commerce Software,320000000,Series D,May-21
+Grin,United States,E-Commerce Software,16000000,Series A,May-21
+Yalo,United States,E-Commerce Software,50000000,Series C,May-21
+Carted,United States,E-Commerce Software,10000000,Seed,May-21
+Infinite Objects,United States,E-Commerce Store,6000000,Seed,May-21
+The Pro's Closet,United States,E-Commerce Store,40000000,Series B,May-21
+UrbanStems,United States,E-Commerce Store,20000000,Series C,May-21
+Tea Drops,United States,E-Commerce Store,5000000,Series A,May-21
+MasterClass,United States,Education,225000000,Series F,May-21
+Educative,United States,Education,12000000,Series A,May-21
+Pathrise,United States,Education,9000000,Series A,May-21
+EnergyX,United States,Energy,20000000,Series A,May-21
+Solid Power,United States,Energy,130000000,Series B,May-21
+24M Technologies,United States,Energy,56800000,Series E,May-21
+Alice,United States,Finance,2000000,Seed,May-21
+Stampli,United States,Finance,50000000,Series C,May-21
+Sentieo,United States,Finance,20000000,Series B,May-21
+Zeta,United States,Finance,250000000,Series C,May-21
+ReCharge,United States,Finance,227000000,Series B,May-21
+Zoe Financial,United States,Finance,10000000,Series A,May-21
+LoanSnap,United States,Finance,30000000,Series B,May-21
+Treasury Prime,United States,Finance,20000000,Series B,May-21
+Figure,United States,Finance,7500000,Seed,May-21
+Lithic,United States,Finance,43000000,Series B,May-21
+Park Place Payments,United States,Finance,1500000,Seed,May-21
+Amount.com,United States,Finance,99000000,Series D,May-21
+Found,United States,Finance,12750000,Series A,May-21
+Sunbit,United States,Finance,130000000,Series D,May-21
+Axle,United States,Finance,10000000,Series A,May-21
+Boost Payment Solutions,United States,Finance,22000000,Series C,May-21
+Blair,United States,Finance,6300000,Seed,May-21
+Noom,United States,Food and Beverage,540000000,Series F,May-21
+Goldbelly,United States,Food and Beverage,100000000,Series C,May-21
+SevenFifty,United States,Food and Beverage,23000000,Series B,May-21
+Clear Labs,United States,Food and Beverage,60000000,Series C,May-21
+Plant Power Fast Food,United States,Food and Beverage,7500000,Series A,May-21
+Copper Cow Coffee,United States,Food and Beverage,8500000,Series A,May-21
+Picnic,United States,Food and Beverage,13300000,Series A,May-21
+Genies,United States,Gaming,65000000,Series B,May-21
+Collectable,United States,Gaming,5500000,Series A,May-21
+The Game Band,United States,Gaming,3000000,Seed,May-21
+Metafy,United States,Gaming,5500000,Seed,May-21
+Lightforge Games,United States,Gaming,5000000,Seed,May-21
+Last Gameboard,United States,Gaming,4000000,Seed,May-21
+ZOE,United States,Health Care,20000000,Series B,May-21
+Collective Health,United States,Health Care,280000000,Series F,May-21
+Vida Health,United States,Health Care,110000000,Series D,May-21
+Akili Interactive Labs,United States,Health Care,110000000,Series D,May-21
+Lyra Health,United States,Health Care,200000000,Series F,May-21
+Hello Heart,United States,Health Care,45000000,Series C,May-21
+Aetion,United States,Health Care,110000000,Series C,May-21
+Ethos,United States,Insurance,200000000,Series D,May-21
+Kin Insurance,United States,Insurance,63900000,Series C,May-21
+Stockal,United States,Investing,3000000,Seed,May-21
+Boost,United States,Investing,20000000,Series B,May-21
+ARTA,United States,Logistics,4500000,Seed,May-21
+Fleeting,United States,Logistics,500000,Seed,May-21
+Upsie,United States,Marketplace,18200000,Series A,May-21
+The Fascination,United States,Marketplace,1000000,Seed,May-21
+Kaiyo,United States,Marketplace,5000000,Series A,May-21
+Icon Source,United States,Marketplace,1600000,Seed,May-21
+Getkart,United States,Marketplace,3000000,Seed,May-21
+Recurate,United States,Marketplace,3250000,Seed,May-21
+Genapsys,United States,Materials,70000000,Series D,May-21
+Recount Media,United States,Media,18000000,Series B,May-21
+Pawp,United States,Pets,13000000,Series A,May-21
+Pearl Certification,United States,Real Estate,9500000,Series B,May-21
+Super,United States,Real Estate,50000000,Series C,May-21
+Blind,United States,Recruiting,37000000,Series C,May-21
+Handshake,United States,Recruiting,80000000,Series E,May-21
+Workrise,United States,Recruiting,300000000,Series E,May-21
+SkillBank,United States,Recruiting,1175000,Seed,May-21
+Ontop,United States,Recruiting,4500000,Seed,May-21
+Canvas,United States,Recruiting,20000000,Series B,May-21
+Path Robotics,United States,Robotics,56000000,Series B,May-21
+Somewhere Good,United States,Social Network,3750000,Seed,May-21
+FarEye,United States,Transportation,100000000,Series E,May-21
+Beep,United States,Transportation,20000000,Series A,May-21
+Swimply,United States,Travel,10000000,Series A,May-21
+Relativity Space,United States,Aerospace,650000000,Series E,Jun-21
+LeoLabs,United States,Aerospace,65000000,Series B,Jun-21
+Zipline,United States,Aerospace,250000000,Series E,Jun-21
+Sentera,United States,Agriculture,25000000,Series C,Jun-21
+Beeflow,United States,Agriculture,8300000,Series A,Jun-21
+Mycroft,United States,Artificial Intelligence,119999,Seed,Jun-21
+Moveworks,United States,Artificial Intelligence,200000000,Series C,Jun-21
+Primer,United States,Artificial Intelligence,110000000,Series C,Jun-21
+Iterative.ai,United States,Artificial Intelligence,20000000,Series A,Jun-21
+Eightfold,United States,Artificial Intelligence,220000000,Series E,Jun-21
+Fiddler,United States,Artificial Intelligence,32000000,Series B,Jun-21
+Strateos,United States,Artificial Intelligence,56100000,Series B,Jun-21
+UserLeap,United States,Artificial Intelligence,38000000,Series B,Jun-21
+Verbit,United States,Artificial Intelligence,157000000,Series D,Jun-21
+Dispo,United States,Augmented Reality,20000000,Series A,Jun-21
+Figma,United States,B2B Software,200000000,Series E,Jun-21
+Vercel,United States,B2B Software,102000000,Series C,Jun-21
+G2.com,United States,B2B Software,157000000,Series D,Jun-21
+SmartAsset,United States,B2B Software,110000000,Series D,Jun-21
+Amplitude,United States,B2B Software,150000000,Series F,Jun-21
+Hello Alice,United States,B2B Software,21000000,Series B,Jun-21
+Qwoted,United States,B2B Software,3000000,Seed,Jun-21
+DealHub.io,United States,B2B Software,20000000,Series B,Jun-21
+Iterable,United States,B2B Software,200000000,Series E,Jun-21
+ServiceTitan,United States,B2B Software,200000000,Series G,Jun-21
+Canopy,United States,B2B Software,11000000,Series C,Jun-21
+Contentstack,United States,B2B Software,57500000,Series B,Jun-21
+Tonkean,United States,B2B Software,50000000,Series B,Jun-21
+Obsess,United States,B2B Software,10000000,Series A,Jun-21
+Dexlab,United States,Blockchain,1440000,Seed,Jun-21
+dYdX,United States,Blockchain,65000000,Series C,Jun-21
+Instadapp,United States,Blockchain,10000000,Series A,Jun-21
+Unchained Capital,United States,Blockchain,25000000,Series A,Jun-21
+Bitwise,United States,Blockchain,70000000,Series B,Jun-21
+Chainalysis,United States,Blockchain,100000000,Series E,Jun-21
+Syndicate,United States,Blockchain,800000,Seed,Jun-21
+Luxor Technologies,United States,Blockchain,5000000,Series A,Jun-21
+Blockdaemon,United States,Blockchain,28000000,Series A,Jun-21
+Foundation Devices,United States,Blockchain,2000000,Seed,Jun-21
+SynFutures,United States,Blockchain,14000000,Series A,Jun-21
+SmartDeFi,United States,Blockchain,1000000,Pre-Seed,Jun-21
+Unbound Finance,United States,Blockchain,5800000,Seed,Jun-21
+Umee,United States,Blockchain,6300000,Seed,Jun-21
+Morning Consult,United States,Cloud Computing,60000000,Series B,Jun-21
+Neo4j,United States,Cloud Computing,325000000,Series F,Jun-21
+Versa Networks,United States,Cloud Computing,84000000,Series D,Jun-21
+Sanity,United States,Cloud Computing,39000000,Series B,Jun-21
+Outreach,United States,Cloud Computing,200000000,Series G,Jun-21
+Hummingbot,United States,Cloud Computing,8000000,Series A,Jun-21
+Gong,United States,Cloud Computing,250000000,Series E,Jun-21
+Nylas,United States,Cloud Computing,120000000,Series C,Jun-21
+Prefect,United States,Cloud Computing,32000000,Series B,Jun-21
+dbt Labs,United States,Cloud Computing,150000000,Series C,Jun-21
+Illumio,United States,Cloud Computing,225000000,Series F,Jun-21
+Alation,United States,Cloud Computing,110000000,Series D,Jun-21
+Addepar,United States,Cloud Computing,150000000,Series F,Jun-21
+Whatfix,United States,Cloud Computing,90000000,Series D,Jun-21
+Robin.io,United States,Cloud Computing,38000000,Series C,Jun-21
+Brella,United States,Cloud Computing,10000000,Series A,Jun-21
+LambdaTest,United States,Cloud Computing,16000000,Series B,Jun-21
+PostHog,United States,Cloud Computing,15000000,Series B,Jun-21
+Deserve,United States,Cloud Computing,50000000,Series D,Jun-21
+Incorta,United States,Cloud Computing,120000000,Series D,Jun-21
+Imply,United States,Cloud Computing,70000000,Series C,Jun-21
+Zenoti,United States,Cloud Computing,80000000,Series D,Jun-21
+Aunt Bertha,United States,Community,27000000,Series D,Jun-21
+Loupe,United States,Community,12000000,Series A,Jun-21
+UpGuard,United States,Cyber Security,19000000,Series B,Jun-21
+Exabeam,United States,Cyber Security,200000000,Series F,Jun-21
+Claroty,United States,Cyber Security,140000000,Series D,Jun-21
+Anduril Industries,United States,Drones,450000000,Series D,Jun-21
+Synder,United States,E-Commerce Software,2000000,Seed,Jun-21
+Pallet,United States,E-Commerce Software,3000000,Seed,Jun-21
+Shogun,United States,E-Commerce Software,67500000,Series C,Jun-21
+Goat Group,United States,E-Commerce Store,195000000,Series F,Jun-21
+House Of Wise,United States,E-Commerce Store,2000000,Seed,Jun-21
+DefineMe,United States,E-Commerce Store,400000,Seed,Jun-21
+maude,United States,E-Commerce Store,5800000,Series A,Jun-21
+The Citizenry,United States,E-Commerce Store,20000000,Series B,Jun-21
+Synthesis School,United States,Education,5000000,Series A,Jun-21
+Guild Education,United States,Education,150000000,Series E,Jun-21
+Nexford University,United States,Education,10800000,Seed,Jun-21
+Age of Learning,United States,Education,300000000,Series C,Jun-21
+Codelicious,United States,Education,2215000,Seed,Jun-21
+EcoFlow Tech,United States,Energy,100000000,Series B,Jun-21
+Impossible Finance,United States,Finance,7000000,Seed,Jun-21
+Credit Sesame,United States,Finance,51000000,Series G,Jun-21
+Truebill,United States,Finance,45000000,Series D,Jun-21
+Now Account Network,United States,Finance,9500000,Series A,Jun-21
+Novo,United States,Finance,40700000,Series A,Jun-21
+Unit,United States,Finance,51000000,Series B,Jun-21
+Bank Labs,United States,Finance,3126213,Seed,Jun-21
+Underground Cellar,United States,Food and Beverage,12500000,Series A,Jun-21
+Hungryroot,United States,Food and Beverage,40000000,Series C,Jun-21
+SIMULATE,United States,Food and Beverage,50000000,Series B,Jun-21
+Shef,United States,Food and Beverage,20000000,Series A,Jun-21
+Motif,United States,Food and Beverage,226000000,Series B,Jun-21
+GiftAMeal,United States,Food and Beverage,484000,Seed,Jun-21
+Snackpass,United States,Food and Beverage,70000000,Series B,Jun-21
+VRChat,United States,Gaming,80000000,Series D,Jun-21
+JW Player,United States,Gaming,100000000,Series E,Jun-21
+Mythical Games,United States,Gaming,75000000,Series B,Jun-21
+Z League,United States,Gaming,13478135,Series A,Jun-21
+TOCA Football,United States,Gaming,40000000,Series E,Jun-21
+Helix,United States,Health Care,50000000,Series C,Jun-21
+Enhatch,United States,Health Care,9000000,Series A,Jun-21
+LetsGetChecked,United States,Health Care,150000000,Series D,Jun-21
+The Pill Club,United States,Health Care,41900000,Series B,Jun-21
+Rise Science,United States,Health Care,10000000,Series A,Jun-21
+TRIPP,United States,Health Care,11000000,Series A,Jun-21
+NexHealth,United States,Health Care,31000000,Series B,Jun-21
+Embroker,United States,Insurance,100000000,Series C,Jun-21
+Securitize,United States,Investing,48000000,Series B,Jun-21
+Atom Finance,United States,Investing,28000000,Series B,Jun-21
+Yieldstreet,United States,Investing,100000000,Series C,Jun-21
+project44,United States,Logistics,202000000,Series E,Jun-21
+Shippo,United States,Logistics,50000000,Series E,Jun-21
+KeepTruckin,United States,Logistics,190000000,Series E,Jun-21
+MachineMetrics,United States,Manufacturing,20000000,Series B,Jun-21
+Rarible,United States,Marketplace,14200000,Series A,Jun-21
+Gloat,United States,Marketplace,57000000,Series C,Jun-21
+Songtradr,United States,Marketplace,50000000,Series D,Jun-21
+Faire,United States,Marketplace,260000000,Series F,Jun-21
+Phase Four,United States,Materials,26000000,Series B,Jun-21
+Happs,United States,Media,4700000,Series A,Jun-21
+Buzzer,United States,Media,20000000,Series A,Jun-21
+Mandolin,United States,Media,12000000,Series A,Jun-21
+Flyhomes,United States,Real Estate,150000000,Series C,Jun-21
+DataRobot,United States,Robotics,250000000,Series G,Jun-21
+Soft Robotics,United States,Robotics,10000000,Series B,Jun-21
+Realtime Robotics,United States,Robotics,31400000,Series A,Jun-21
+7SIGNAL,United States,Telecommunications,5000000,Series D,Jun-21
+Dtravel,United States,Travel,5000000,Seed,Jun-21
+Outdoorsy,United States,Travel,90000000,Series D,Jun-21
+Factal,United States,Wellness,3300000,Series A,Jun-21
+Terraformation,United States,Wellness,30000000,Series A,Jun-21
+Relativity Space,United States,Aerospace,650000000,Series E,Jul-21
+Accion Systems,United States,Aerospace,42000000,Series C,Jul-21
+Pivot Bio,United States,Agriculture,430000000,Series D,Jul-21
+Covariant,United States,Artificial Intelligence,80000000,Series C,Jul-21
+Voiceflow,United States,Artificial Intelligence,20000000,Series A,Jul-21
+10Web.io,United States,Artificial Intelligence,2000000,Seed,Jul-21
+Talview,United States,Artificial Intelligence,15000000,Series B,Jul-21
+Entos,United States,Artificial Intelligence,53000000,Series A,Jul-21
+DNSFilter,United States,Artificial Intelligence,30000000,Series A,Jul-21
+ClimateAI,United States,Artificial Intelligence,12000000,Series A,Jul-21
+Numerade,United States,Artificial Intelligence,26000000,Series A,Jul-21
+Interos,United States,Artificial Intelligence,100000000,Series C,Jul-21
+Zone7,United States,Artificial Intelligence,8000000,Series A,Jul-21
+DRESSX,United States,Augmented Reality,2000000,Seed,Jul-21
+Tailor Brands,United States,B2B Software,50000000,Series C,Jul-21
+Bubble,United States,B2B Software,100000000,Series A,Jul-21
+mmhmm,United States,B2B Software,100000000,Series B,Jul-21
+Suzy,United States,B2B Software,50000000,Series D,Jul-21
+MURAL,United States,B2B Software,50000000,Series C,Jul-21
+Magic,United States,B2B Software,27000000,Series A,Jul-21
+Coda,United States,B2B Software,100000000,Series D,Jul-21
+Paystand,United States,B2B Software,50000000,Series C,Jul-21
+OneDay,United States,B2B Software,19000000,Series B,Jul-21
+Triggermesh,United States,B2B Software,5000000,Seed,Jul-21
+NewStore,United States,B2B Software,45000000,Series B,Jul-21
+Homebase,United States,B2B Software,71000000,Series C,Jul-21
+Zenput,United States,B2B Software,27000000,Series C,Jul-21
+Vestwell,United States,B2B Software,70000000,Series C,Jul-21
+Smile Identity,United States,B2B Software,7000000,Series A,Jul-21
+Virtuous Software,United States,B2B Software,18000000,Series B,Jul-21
+Dragonboat,United States,B2B Software,3000000,Seed,Jul-21
+OpenSea,United States,Blockchain,100000000,Series B,Jul-21
+FTX Exchange,United States,Blockchain,900000000,Series B,Jul-21
+Zerion,United States,Blockchain,8200000,Series A,Jul-21
+Phantom,United States,Blockchain,9000000,Series A,Jul-21
+Index Coop,United States,Blockchain,7700000,Seed,Jul-21
+Livepeer,United States,Blockchain,20000000,Series B,Jul-21
+Fireblocks,United States,Blockchain,310000000,Series D,Jul-21
+Valora,United States,Blockchain,20000000,Series A,Jul-21
+Thales,United States,Blockchain,2500000,Seed,Jul-21
+Thesis,United States,Blockchain,21000000,Series A,Jul-21
+4k.com,United States,Blockchain,3000000,Seed,Jul-21
+NFT Oasis,United States,Blockchain,4400000,Series A,Jul-21
+Data Mynt,United States,Blockchain,1550000,Seed,Jul-21
+Pantheon,United States,Cloud Computing,100000000,Series E,Jul-21
+Pendo,United States,Cloud Computing,150000000,Series F,Jul-21
+Algolia,United States,Cloud Computing,150000000,Series D,Jul-21
+Remote,United States,Cloud Computing,150000000,Series B,Jul-21
+Sourcegraph,United States,Cloud Computing,150000000,Series D,Jul-21
+Julia Computing,United States,Cloud Computing,24000000,Series A,Jul-21
+Stytch,United States,Cloud Computing,30000000,Series A,Jul-21
+Dibbs,United States,Cloud Computing,13000000,Series A,Jul-21
+Cake,United States,Cloud Computing,3700000,Seed,Jul-21
+Kasisto,United States,Cloud Computing,15500000,Series C,Jul-21
+Squire,United States,Cloud Computing,60000000,Series D,Jul-21
+Cube Dev,United States,Cloud Computing,15500000,Series A,Jul-21
+Blameless,United States,Cloud Computing,30000000,Series B,Jul-21
+r2c,United States,Cloud Computing,27000000,Series B,Jul-21
+Flock Safety,United States,Cloud Computing,150000000,Series D,Jul-21
+Hightouch,United States,Cloud Computing,12100000,Series A,Jul-21
+GupShup,United States,Cloud Computing,240000000,Series F,Jul-21
+Launchable,United States,Cloud Computing,9500000,Series A,Jul-21
+Eterneva,United States,Consumer,10000000,Series A,Jul-21
+Cybereason,United States,Cyber Security,275000000,Series F,Jul-21
+AttackIQ,United States,Cyber Security,44000000,Series C,Jul-21
+Deep Instinct,United States,Cyber Security,67000000,Series D,Jul-21
+Coralogix,United States,Cyber Security,55000000,Series C,Jul-21
+Safe Security,United States,Cyber Security,33000000,Series B,Jul-21
+Arctic Wolf,United States,Cyber Security,150000000,Series F,Jul-21
+Mark43,United States,Cyber Security,101000000,Series E,Jul-21
+The @ Company,United States,Cyber Security,8000000,Seed,Jul-21
+Lolli,United States,E-Commerce Software,10000000,Series A,Jul-21
+Repeat,United States,E-Commerce Software,6000000,Series A,Jul-21
+Sendlane,United States,E-Commerce Software,20000000,Series A,Jul-21
+Amperity,United States,E-Commerce Software,100000000,Series D,Jul-21
+Fabric,United States,E-Commerce Software,100000000,Series B,Jul-21
+Replicated,United States,E-Commerce Software,50000000,Series C,Jul-21
+Glossier,United States,E-Commerce Store,80000000,Series E,Jul-21
+Ephemeral Tattoos,United States,E-Commerce Store,20000000,Series A,Jul-21
+ArtSugar,United States,E-Commerce Store,500000,Seed,Jul-21
+Articulate,United States,Education,1500000000,Series A,Jul-21
+SoloLearn,United States,Education,24000000,Series B,Jul-21
+Microverse,United States,Education,12500000,Series A,Jul-21
+OpenSesame,United States,Education,50000000,Series D,Jul-21
+Class Technologies,United States,Education,105000000,Series B,Jul-21
+Redwood Materials,United States,Energy,700000000,Series C,Jul-21
+Camus Energy,United States,Energy,16000000,Series A,Jul-21
+Eco,United States,Finance,60000000,Series B,Jul-21
+M1 Finance,United States,Finance,150000000,Series E,Jul-21
+Mercury,United States,Finance,120000000,Series B,Jul-21
+Paro,United States,Finance,25000000,Series B,Jul-21
+Sila,United States,Finance,13000000,Series A,Jul-21
+Prime Trust,United States,Finance,64000000,Series A,Jul-21
+FloQast,United States,Finance,110000000,Series D,Jul-21
+iCapital Network,United States,Finance,440000000,Series C,Jul-21
+Lithic,United States,Finance,60000000,Series C,Jul-21
+Urban Remedy,United States,Food and Beverage,18000000,Series D,Jul-21
+Little Spoon,United States,Food and Beverage,44000000,Series B,Jul-21
+Meati Foods,United States,Food and Beverage,50000000,Series B,Jul-21
+Natureâs Fynd,United States,Food and Beverage,350000000,Series C,Jul-21
+Picnic,United States,Food and Beverage,4200000,Series A,Jul-21
+MomentRanks,United States,Gaming,1700000,Seed,Jul-21
+Community Gaming,United States,Gaming,2300000,Seed,Jul-21
+LeagueApps,United States,Gaming,15000000,Series B,Jul-21
+Genvid Holdings,United States,Gaming,113000000,Series C,Jul-21
+Thrive Global,United States,Human Resources,80000000,Series C,Jul-21
+Teamflow,United States,Human Resources,35000000,Series B,Jul-21
+Skedulo,United States,Human Resources,75000000,Series C,Jul-21
+Songfinch,United States,Human Resources,2000000,Seed,Jul-21
+Catch,United States,Insurance,12000000,Series A,Jul-21
+Ethos,United States,Insurance,100000000,Series D,Jul-21
+INSHUR,United States,Insurance,23400000,Series B,Jul-21
+agentero,United States,Insurance,13500000,Series A,Jul-21
+Chaka Technologies,United States,Investing,1500000,Pre-Seed,Jul-21
+Titan,United States,Investing,58000000,Series B,Jul-21
+Tornado,United States,Investing,10000000,Seed,Jul-21
+Teikametrics,United States,Investing,40000000,Series B,Jul-21
+Hedgehog Markets,United States,Marketplace,3500000,Seed,Jul-21
+Lumanu,United States,Marketplace,12000000,Series A,Jul-21
+Mighty Buildings,United States,Marketplace,22000000,Series B,Jul-21
+Breakr,United States,Marketplace,4200000,Seed,Jul-21
+talkshoplive,United States,Media,6000000,Seed,Jul-21
+Popshop Live,United States,Media,20000000,Series A,Jul-21
+Embark,United States,Pets,75000000,Series B,Jul-21
+PsiQuantum,United States,Quantum Computing,450000000,Series D,Jul-21
+Atom Computing,United States,Quantum Computing,15000000,Series A,Jul-21
+Morty,United States,Real Estate,25000000,Series B,Jul-21
+Abodu,United States,Real Estate,20000000,Series A,Jul-21
+RentSpree,United States,Real Estate,8000000,Series A,Jul-21
+Cape Analytics,United States,Real Estate,44000000,Series C,Jul-21
+SmartRecruiters,United States,Recruiting,110000000,Series E,Jul-21
+Censia,United States,Recruiting,21000000,Series A,Jul-21
+Instawork,United States,Recruiting,60000000,Series C,Jul-21
+inVia Robotics,United States,Robotics,30000000,Series C,Jul-21
+HaptX,United States,Robotics,12000000,Series A,Jul-21
+Path Robotics,United States,Robotics,100000000,Series C,Jul-21
+Veo,United States,Transportation,16000000,Series A,Jul-21
+Simpplr,United States,Transportation,32000000,Series C,Jul-21
+Blocknative,United States,Travel,12000000,Series A,Jul-21
+Miles,United States,Travel,12500000,Series A,Jul-21
+ICON,United States,3D,207000000,Series B,Aug-21
+Sound Agriculture,United States,Agriculture,45000000,Series C,Aug-21
+Regrow Ag,United States,Agriculture,23500000,Series A,Aug-21
+80 Acres Farms,United States,Agriculture,160000000,Series B,Aug-21
+Biome Makers,United States,Agriculture,15000000,Series B,Aug-21
+Databricks,United States,Artificial Intelligence,1600000000,Series H,Aug-21
+Dataiku,United States,Artificial Intelligence,400000000,Series E,Aug-21
+Talkdesk,United States,Artificial Intelligence,230000000,Series D,Aug-21
+Snorkel AI,United States,Artificial Intelligence,85000000,Series C,Aug-21
+Latent AI,United States,Artificial Intelligence,19000000,Series A,Aug-21
+Workera,United States,Artificial Intelligence,16000000,Series A,Aug-21
+People.ai,United States,Artificial Intelligence,100000000,Series D,Aug-21
+Moises,United States,Artificial Intelligence,1600000,Seed,Aug-21
+Shelf,United States,Artificial Intelligence,52500000,Series B,Aug-21
+EarBuds,United States,Audio,3000000,Series A,Aug-21
+Picsart,United States,Augmented Reality,130000000,Series C,Aug-21
+Superhuman,United States,B2B Software,75000000,Series C,Aug-21
+Hashnode,United States,B2B Software,6700000,Series A,Aug-21
+Gusto,United States,B2B Software,175000000,Series E,Aug-21
+Metabase,United States,B2B Software,30000000,Series B,Aug-21
+Ramp,United States,B2B Software,300000000,Series C,Aug-21
+Seismic,United States,B2B Software,170000000,Series G,Aug-21
+Bldup,United States,B2B Software,2000000,Pre-Seed,Aug-21
+Hive,United States,B2B Software,10000000,Series B,Aug-21
+MoEngage,United States,B2B Software,32500000,Funding,Aug-21
+Entando,United States,B2B Software,11000000,Series B,Aug-21
+Felt,United States,B2B Software,4500000,Seed,Aug-21
+yellow.ai,United States,B2B Software,78150000,Series C,Aug-21
+Refill,United States,B2B Software,1000000,Angel,Aug-21
+Walnut,United States,B2B Software,15000000,Series A,Aug-21
+Messari,United States,Blockchain,21000000,Series A,Aug-21
+MakersPlace,United States,Blockchain,30000000,Series A,Aug-21
+NearPad,United States,Blockchain,2500000,Seed,Aug-21
+Offchain Labs,United States,Blockchain,100000000,Series B,Aug-21
+Parallel Finance,United States,Blockchain,22000000,Series A,Aug-21
+Syndicate,United States,Blockchain,20000000,Series A,Aug-21
+Mudrex,United States,Blockchain,2500000,Seed,Aug-21
+Royal,United States,Blockchain,16000000,Seed,Aug-21
+TaxBit,United States,Blockchain,130000000,Series B,Aug-21
+UniWhales,United States,Blockchain,2200000,Seed,Aug-21
+Liquality,United States,Blockchain,7000000,Seed,Aug-21
+ZenLedger,United States,Blockchain,6000000,Series A,Aug-21
+Horizen Labs,United States,Blockchain,7000000,Seed,Aug-21
+Onramp Invest,United States,Blockchain,6000000,Seed,Aug-21
+Ondo Finance,United States,Blockchain,4000000,Seed,Aug-21
+FalconX,United States,Blockchain,210000000,Series C,Aug-21
+Exactly,United States,Blockchain,3000000,Seed,Aug-21
+Bitwave,United States,Blockchain,7250000,Seed,Aug-21
+Grafana Labs,United States,Cloud Computing,220000000,Series C,Aug-21
+Postman,United States,Cloud Computing,225000000,Series D,Aug-21
+WeSpire,United States,Cloud Computing,13000000,Series B,Aug-21
+Figment,United States,Cloud Computing,50000000,Series B,Aug-21
+Alpaca,United States,Cloud Computing,50000000,Series B,Aug-21
+Fig,United States,Cloud Computing,2200000,Seed,Aug-21
+FullStory,United States,Cloud Computing,103000000,Series D,Aug-21
+LaunchDarkly,United States,Cloud Computing,200000000,Series D,Aug-21
+OwnBackup,United States,Cloud Computing,240000000,Series E,Aug-21
+Nirmata,United States,Cloud Computing,4000000,Seed,Aug-21
+Knoetic,United States,Cloud Computing,18000000,Series A,Aug-21
+Kinvolved,United States,Cloud Computing,250000,Seed,Aug-21
+Split Software,United States,Cloud Computing,50000000,Series D,Aug-21
+Prifina,United States,Cloud Computing,1000000,Pre-Seed,Aug-21
+andros,United States,Cloud Computing,12500000,Series B,Aug-21
+Pensando,United States,Cloud Computing,35000000,Series C,Aug-21
+HAAS Alert,United States,Cloud Computing,5000000,Seed,Aug-21
+FireHydrant,United States,Cloud Computing,23000000,Series B,Aug-21
+Tulip Interfaces,United States,Cloud Computing,100000000,Series C,Aug-21
+Origin,United States,Cloud Computing,56000000,Series B,Aug-21
+Snap! Raise,United States,Community,90000000,Series B,Aug-21
+Revel,United States,Community,3500000,Seed,Aug-21
+CertiK,United States,Cyber Security,24000000,Series B,Aug-21
+ReversingLabs,United States,Cyber Security,56000000,Series B,Aug-21
+Nozomi Networks,United States,Cyber Security,100000000,Series D,Aug-21
+Bluecore,United States,E-Commerce Software,125000000,Series E,Aug-21
+Eight Sleep,United States,E-Commerce Store,86000000,Series C,Aug-21
+quip,United States,E-Commerce Store,100000000,Series B,Aug-21
+EBY,United States,E-Commerce Store,6000000,Series A,Aug-21
+Product School,United States,Education,25000000,Growth,Aug-21
+MindTickle,United States,Education,100000000,Series E,Aug-21
+NoRedInk,United States,Education,50000000,Series B,Aug-21
+Codelicious,United States,Education,3800000,Seed,Aug-21
+Form Energy,United States,Energy,240000000,Series D,Aug-21
+Bright Power,United States,Energy,24500000,Series B,Aug-21
+LevelTen Energy,United States,Energy,35000000,Series C,Aug-21
+Urbint,United States,Energy,60000000,Series C,Aug-21
+TrustToken,United States,Finance,12500000,Seed,Aug-21
+Pngme,United States,Finance,15000000,Series A,Aug-21
+MobileCoin,United States,Finance,66000000,Series B,Aug-21
+Branch,United States,Finance,48000000,Series B,Aug-21
+Rapyd,United States,Finance,300000000,Series E,Aug-21
+One,United States,Finance,40000000,Series B,Aug-21
+Upgrade,United States,Finance,105000000,Series E,Aug-21
+Sightline Payments,United States,Finance,244000000,Private Equity,Aug-21
+InfStones,United States,Hardware,10000000,Series A,Aug-21
+Bravely,United States,Human Resources,15000000,Series A,Aug-21
+Human Interest,United States,Human Resources,200000000,Series D,Aug-21
+Carta,United States,Investing,500000000,Series G,Aug-21
+DriveWealth,United States,Investing,450000000,Series D,Aug-21
+Aumni,United States,Investing,50000000,Series B,Aug-21
+CapShift,United States,Investing,5000000,Series A,Aug-21
+MINDSET,United States,Marketplace,8700000,Seed,Aug-21
+Cent,United States,Marketplace,3000000,Seed,Aug-21
+Vice Media,United States,Media,85000000,Private Equity,Aug-21
+Betsperts,United States,Media,6000000,Series A,Aug-21
+CreatorStack,United States,Media,2000000,Seed,Aug-21
+Plant Prefab,United States,Real Estate,30000000,Series B,Aug-21
+Brilliant,United States,Real Estate,40000000,Series B,Aug-21
+Divvy,United States,Real Estate,200000000,Series D,Aug-21
+Localize,United States,Real Estate,25000000,Series C,Aug-21
+Bungalow,United States,Real Estate,75000000,Series C,Aug-21
+Forage,United States,Recruiting,25000000,Series B,Aug-21
+Talview,United States,Recruiting,15000000,Series B,Aug-21
+Harri,United States,Recruiting,30000000,Private Equity,Aug-21
+Cribl,United States,Recruiting,200000000,Series C,Aug-21
+inVia Robotics,United States,Robotics,30000000,Series C,Aug-21
+Reddit,United States,Social Network,410000000,Series F,Aug-21
+Clay,United States,Social Network,8000000,Seed,Aug-21
+Hologram,United States,Telecommunications,65000000,Series B,Aug-21
+Teleport,United States,Telecommunications,30000000,Series B,Aug-21
+Apollo,United States,Transportation,130000000,Series D,Aug-21
+HopSkipDrive,United States,Transportation,25000000,Series C,Aug-21
+Gatik,United States,Transportation,85000000,Series B,Aug-21
+Wheel the World,United States,Travel,2000000,Seed,Aug-21
+TurnoverBnB,United States,Travel,4500000,Series A,Aug-21
+Maven Clinic,United States,Wellness,110000000,Series D,Aug-21
+Wynd Technologies,United States,Wellness,10000000,Series A,Aug-21
+FLYR Labs,United States,Aerospace,150000000,Series C,Sep-21
+Near Space Labs,United States,Aerospace,13000000,Series A,Sep-21
+GrubMarket,United States,Agriculture,120000000,Series E,Sep-21
+Iron Ox,United States,Agriculture,53000000,Series C,Sep-21
+Ceres Imaging,United States,Agriculture,23000000,Series C,Sep-21
+Burro,United States,Agriculture,10900000,Series A,Sep-21
+IntelinAir,United States,Agriculture,20000000,Series B,Sep-21
+Steward,United States,Agriculture,8800000,Series A,Sep-21
+Kodezi,United States,Artificial Intelligence,1000000,Pre-Seed,Sep-21
+Nextiva,United States,Artificial Intelligence,200000000,Private Equity,Sep-21
+Kore.ai,United States,Artificial Intelligence,50000000,Series C,Sep-21
+AlphaSense,United States,Artificial Intelligence,180000000,Series C,Sep-21
+GoodCall.com,United States,Artificial Intelligence,4000000,Seed,Sep-21
+GenesisAI,United States,Artificial Intelligence,2500000,Series A,Sep-21
+BLACKBIRD.AI,United States,Artificial Intelligence,10000000,Series A,Sep-21
+Humanly.io,United States,Artificial Intelligence,4200000,Seed,Sep-21
+Imandra,United States,Artificial Intelligence,5000000,Seed,Sep-21
+Callin,United States,Audio,12000000,Series A,Sep-21
+RedCircle,United States,Audio,6000000,Series A,Sep-21
+Anima App,United States,B2B Software,10000000,Series A,Sep-21
+SpotOn,United States,B2B Software,300000000,Series E,Sep-21
+ForMotiv,United States,B2B Software,6000000,Seed,Sep-21
+The Org,United States,B2B Software,20000000,Series B,Sep-21
+Pass It Down,United States,B2B Software,2000000,Seed,Sep-21
+Fin.com,United States,B2B Software,20000000,Series A,Sep-21
+Innovare,United States,B2B Software,3000000,Seed,Sep-21
+PropelPLM,United States,B2B Software,20000000,Series C,Sep-21
+Vowel,United States,B2B Software,13500000,Series A,Sep-21
+SundaeSwap Labs,United States,Blockchain,1300000,Seed,Sep-21
+Abra,United States,Blockchain,55000000,Series C,Sep-21
+Ripio,United States,Blockchain,50000000,Series B,Sep-21
+Cybertino Lab,United States,Blockchain,10000000,Seed,Sep-21
+Roll,United States,Blockchain,10000000,Series A,Sep-21
+Fuel Labs,United States,Blockchain,1500000,Seed,Sep-21
+Recur,United States,Blockchain,50000000,Series A,Sep-21
+SIMBA Chain,United States,Blockchain,25000000,Series A,Sep-21
+Taker Protocol,United States,Blockchain,3000000,Seed,Sep-21
+Amberdata,United States,Blockchain,15000000,Series A,Sep-21
+Stardust,United States,Blockchain,5000000,Series A,Sep-21
+Zero Hash,United States,Blockchain,35000000,Series C,Sep-21
+Rocket Dollar,United States,Blockchain,8000000,Series A,Sep-21
+fxdx exchange,United States,Blockchain,570000,Seed,Sep-21
+Bubblehouse,United States,Blockchain,4000000,Pre-Seed,Sep-21
+JumpCloud,United States,Cloud Computing,159000000,Series F,Sep-21
+SingleStore,United States,Cloud Computing,80000000,Series F,Sep-21
+Code Climate,United States,Cloud Computing,50000000,Series C,Sep-21
+Civis Analytics,United States,Cloud Computing,30700000,Series B,Sep-21
+RemNote,United States,Cloud Computing,3000000,Seed,Sep-21
+Almanac,United States,Cloud Computing,34000000,Series A,Sep-21
+Botify,United States,Cloud Computing,55000000,Series C,Sep-21
+Amagi Media Labs,United States,Cloud Computing,100000000,Private Equity,Sep-21
+Fivetran,United States,Cloud Computing,565000000,Series D,Sep-21
+ClickHouse,United States,Cloud Computing,50000000,Series A,Sep-21
+Copado,United States,Cloud Computing,140000000,Series C,Sep-21
+Materialize,United States,Cloud Computing,60000000,Series C,Sep-21
+Sisu,United States,Cloud Computing,62000000,Series C,Sep-21
+Aviatrix,United States,Cloud Computing,200000000,Series E,Sep-21
+StreamNative,United States,Cloud Computing,23700000,Series A,Sep-21
+CreatorIQ,United States,Cloud Computing,40000000,Series D,Sep-21
+Saviynt,United States,Cloud Computing,130000000,Private Equity,Sep-21
+3Gtms,United States,Cloud Computing,15000000,Private Equity,Sep-21
+Loft Labs,United States,Cloud Computing,4600000,Seed,Sep-21
+Vodori,United States,Cloud Computing,7500000,Series A,Sep-21
+Postal.io,United States,Cloud Computing,22000000,Series B,Sep-21
+CodeSee,United States,Cloud Computing,3000000,Seed,Sep-21
+Omaze,United States,Consumer,85000000,Series C,Sep-21
+Totango,United States,Consumer,100000000,Series D,Sep-21
+Snyk,United States,Cyber Security,530000000,Series F,Sep-21
+Corelight,United States,Cyber Security,75000000,Series D,Sep-21
+Kolide,United States,Cyber Security,17000000,Series B,Sep-21
+Panorays,United States,Cyber Security,42000000,Series B,Sep-21
+DroneSeed,United States,Drones,36000000,Series A,Sep-21
+NTWRK,United States,E-Commerce Software,50000000,Series B,Sep-21
+Immerss,United States,E-Commerce Software,1100000,Seed,Sep-21
+Grailed,United States,E-Commerce Store,60000000,Series B,Sep-21
+Cotopaxi,United States,E-Commerce Store,45000000,Series C,Sep-21
+Printify,United States,E-Commerce Store,45000000,Series A,Sep-21
+Joy,United States,E-Commerce Store,20000000,Series A,Sep-21
+Panorama Education,United States,Education,60000000,Series C,Sep-21
+Fiveable,United States,Education,10000000,Series A,Sep-21
+MaestroQA,United States,Education,25000000,Series A,Sep-21
+6AM City,United States,Education,5000000,Series A,Sep-21
+Arcadia,United States,Energy,100000000,Series D,Sep-21
+EcoFlow,United States,Energy,9595000,Crowdfunding,Sep-21
+Lilac Solutions,United States,Energy,150000000,Series B,Sep-21
+SunShare,United States,Energy,30000000,Private Equity,Sep-21
+Varo Money,United States,Finance,510000000,Series E,Sep-21
+dash.fi,United States,Finance,3200000,Seed,Sep-21
+Zebedee,United States,Finance,11500000,Series A,Sep-21
+Melio,United States,Finance,250000000,Series D,Sep-21
+Sendoso,United States,Finance,100000000,Series C,Sep-21
+Point Card,United States,Finance,46500000,Series B,Sep-21
+Alloy,United States,Finance,100000000,Series C,Sep-21
+Jeeves,United States,Finance,57000000,Series B,Sep-21
+Revenue Grid,United States,Finance,20000000,Series A,Sep-21
+Built Technologies,United States,Finance,125000000,Series D,Sep-21
+TomoCredit,United States,Finance,10000000,Series A,Sep-21
+HUNGRY,United States,Food and Beverage,21000000,Series C,Sep-21
+Ripple Foods,United States,Food and Beverage,60000000,Series E,Sep-21
+Perfect Day,United States,Food and Beverage,350000000,Series D,Sep-21
+Misfits Market,United States,Food and Beverage,225000000,Series C,Sep-21
+CookUnity,United States,Food and Beverage,47000000,Series B,Sep-21
+New Age Meats,United States,Food and Beverage,25000000,Series A,Sep-21
+Calysta,United States,Food and Beverage,39000000,Series D,Sep-21
+Biftek,United States,Food and Beverage,12500000,Seed,Sep-21
+Sleeper,United States,Gaming,40000000,Series C,Sep-21
+HomeCourt,United States,Gaming,25000000,Series B,Sep-21
+Press Sports App,United States,Gaming,1500000,Seed,Sep-21
+ProbablyMonsters,United States,Gaming,200000000,Series A,Sep-21
+PredictionStrike,United States,Gaming,1700000,Seed,Sep-21
+Elodie Games,United States,Gaming,32500000,Series A,Sep-21
+Catalog,United States,Hardware,35000000,Series B,Sep-21
+NOCD,United States,Health Care,33000000,Series B,Sep-21
+Mammoth Biosciences,United States,Health Care,150000000,Series D,Sep-21
+Emulate,United States,Health Care,82000000,Series E,Sep-21
+Pager,United States,Health Care,70000000,Series C,Sep-21
+Xealth,United States,Health Care,24000000,Series B,Sep-21
+Solugen,United States,Health Care,350000000,Series C,Sep-21
+Meru Health,United States,Health Care,30000000,Series B,Sep-21
+Affinity,United States,Health Care,80000000,Series C,Sep-21
+Height,United States,Human Resources,14000000,Series A,Sep-21
+Syndio Solutions,United States,Human Resources,50000000,Series C,Sep-21
+Insurify,United States,Insurance,100000000,Series B,Sep-21
+Sureify,United States,Insurance,15000000,Series C,Sep-21
+BriteCore,United States,Insurance,20000000,Series C,Sep-21
+Homee,United States,Insurance,17000000,Series B,Sep-21
+Prysm,United States,Investing,3000000,Seed,Sep-21
+XMargin,United States,Investing,8000000,Series A,Sep-21
+Stord,United States,Logistics,90000000,Series D,Sep-21
+aPriori Technologies,United States,Manufacturing,30000000,Series D,Sep-21
+RCRDSHP,United States,Marketplace,5000000,Seed,Sep-21
+Pacaso,United States,Real Estate,125000000,Series C,Sep-21
+Blueground,United States,Real Estate,140000000,Series C,Sep-21
+Landed,United States,Real Estate,31000000,Series B,Sep-21
+Measurabl,United States,Real Estate,50000000,Series C,Sep-21
+DoorLoop,United States,Real Estate,10000000,Seed,Sep-21
+Andela,United States,Recruiting,200000000,Series E,Sep-21
+CodeSignal,United States,Recruiting,50000000,Series C,Sep-21
+Checkr,United States,Recruiting,250000000,Series E,Sep-21
+New Apprenticeship,United States,Recruiting,2500000,Seed,Sep-21
+Gem,United States,Recruiting,100000000,Series C,Sep-21
+Locus Robotics,United States,Robotics,50000000,Series E,Sep-21
+Discord,United States,Social Network,500000000,Series H,Sep-21
+Qwilt,United States,Telecommunications,70000000,Series E,Sep-21
+SmarterTravel,United States,Travel,9500000,Series B,Sep-21
+Headout,United States,Travel,12000000,Series B,Sep-21

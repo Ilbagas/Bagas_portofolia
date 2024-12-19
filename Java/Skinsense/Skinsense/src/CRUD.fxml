@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="crudCon">
+   <center>
+      <TableView fx:id="AllTable" prefHeight="400.0" prefWidth="555.0" BorderPane.alignment="CENTER">
+        <columns>
+          <TableColumn fx:id="nameCol" prefWidth="94.39996337890625" text="Nama Poduk" />
+          <TableColumn fx:id="brandCol" prefWidth="93.5999755859375" text="Brand Produk" />
+            <TableColumn fx:id="categoriCol" prefWidth="75.0" text="Kategori" />
+            <TableColumn fx:id="priceCol" prefWidth="75.0" text="Harga" />
+            <TableColumn fx:id="stokCol" prefWidth="75.0" text="Qty" />
+        </columns>
+      </TableView>
+   </center>
+   <right>
+      <AnchorPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #f3e7e9;" BorderPane.alignment="CENTER">
+         <children>
+            <TextField fx:id="namaProdField" alignment="CENTER" layoutX="24.0" layoutY="76.0" prefHeight="23.0" prefWidth="152.0" promptText="Nama Produk">
+               <font>
+                  <Font name="Geometr706 BlkCn BT Black" size="12.0" />
+               </font>
+            </TextField>
+            <TextField fx:id="brandProdField" alignment="CENTER" layoutX="25.0" layoutY="117.0" prefHeight="23.0" prefWidth="152.0" promptText="Brand Produk">
+               <font>
+                  <Font name="Geometr706 BlkCn BT Black" size="12.0" />
+               </font>
+            </TextField>
+            <TextField fx:id="kategoriField" alignment="CENTER" layoutX="24.0" layoutY="162.0" prefHeight="23.0" prefWidth="152.0" promptText="Kategori">
+               <font>
+                  <Font name="Geometr706 BlkCn BT Black" size="12.0" />
+               </font>
+            </TextField>
+            <TextField fx:id="hargaField" alignment="CENTER" layoutX="25.0" layoutY="208.0" prefHeight="23.0" prefWidth="152.0" promptText="Harga">
+               <font>
+                  <Font name="Geometr706 BlkCn BT Black" size="12.0" />
+               </font>
+            </TextField>
+            <TextField fx:id="jumlahField" alignment="CENTER" layoutX="25.0" layoutY="249.0" prefHeight="23.0" prefWidth="152.0" promptText="Qty">
+               <font>
+                  <Font name="Geometr706 BlkCn BT Black" size="12.0" />
+               </font>
+            </TextField>
+            <Button fx:id="addButton" layoutX="14.0" layoutY="296.0" mnemonicParsing="false" onAction="#saveTask" style="-fx-background-color: fb629e; -fx-background-radius: FFFFFF; -fx-background-insets: FFFFFF;" text="Tambahkan" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Geometr415 Blk BT Black" size="12.0" />
+               </font>
+            </Button>
+            <Button fx:id="hapusButton" layoutX="125.0" layoutY="296.0" mnemonicParsing="false" onAction="#deleteData" style="-fx-background-color: fb629e; -fx-background-radius: FFFFFF; -fx-background-insets: FFFFFF;" text="Hapus" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Geometr415 Blk BT Black" size="12.0" />
+               </font>
+            </Button>
+            <Button layoutX="72.0" layoutY="336.0" mnemonicParsing="false" style="-fx-background-color: fb629e; -fx-background-radius: FFFFFF; -fx-background-insets: FFFFFF;" text="Update" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Geometr415 Blk BT Black" size="12.0" />
+               </font>
+            </Button>
+            <Button layoutX="125.0" layoutY="23.0" mnemonicParsing="false" style="-fx-background-color: fb629e;" text="LogOut" textFill="WHITE">
+               <font>
+                  <Font name="Geometr212 BkCn BT Heavy" size="12.0" />
+               </font>
+            </Button>
+         </children>
+      </AnchorPane>
+   </right>
+</BorderPane>
